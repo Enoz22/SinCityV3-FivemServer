@@ -1,0 +1,1128 @@
+
+[06:44:08] [DEBUG] Loading Auth Data
+[06:44:08] [DEBUG] Loaded Auth Data
+[06:44:09] [DEBUG] Contacting Auth
+[06:44:09] [ChocoHax]: ChocoHax [1.3.0] is starting... Please Wait...
+[06:44:11] [ChocoHax Success]: Successfully connected to the authentication server
+[06:44:11] [ChocoHax]: Connected to Shiina Mashiro (hentai.systems) BZ
+[06:44:11] [ChocoHax]: Welcome back Enoz
+[06:44:11] [ChocoHax]: Your current Server IP: 51.210.223.224
+[06:44:11] [ChocoHax]: MOTD: Hello, There are a lot of new things there... get ready!
+[06:44:11] [ChocoHax Warning]: This current version doesn't have any Configuration Checker, DO NOT HEAVILY EDIT THE CONFIGS.
+[06:44:11] [ChocoHax Warning]: A config manager/generator will be released soon, this is a test version for the new Global Whitelist.
+[06:44:11] [DEBUG] [Bans Loader] Requesting Ban List
+[06:44:11] [DEBUG] [Bans Loader] Retrieving Ban List
+[06:44:11] [ChocoHax Success]: [Bans Loader] Ban List loaded successfully...
+[06:44:11] [DEBUG] [Bans Loader] Ban List loaded successfully
+[06:44:11] [DEBUG] Blacklisted Events Enabled
+[06:44:11] [DEBUG] Registred Blacklisted Event redst0nia:checking
+[06:44:11] [DEBUG] Registred Blacklisted Event hentailover:xdlol
+[06:44:11] [DEBUG] Registred Blacklisted Event antilynx8:anticheat
+[06:44:11] [DEBUG] Registred Blacklisted Event antilynxr6:detection
+[06:44:11] [DEBUG] Registred Blacklisted Event antilynx8r4a:anticheat
+[06:44:11] [DEBUG] Registred Blacklisted Event antilynxr4:detect
+[06:44:11] [DEBUG] Registred Blacklisted Event ynx8:anticheat
+[06:44:11] [DEBUG] Registred Blacklisted Event lynx8:anticheat
+[06:44:11] [DEBUG] Registred Blacklisted Event adminmenu:allowall
+[06:44:11] [DEBUG] Registred Blacklisted Event h:xd
+[06:44:11] [DEBUG] Registred Blacklisted Event HCheat:TempDisableDetection
+[06:44:11] [DEBUG] Registred Blacklisted Event FAC:EzExec
+[06:44:11] [DEBUG] Anti Events Chat Spam/Fake Name Enabled
+[06:44:11] [DEBUG] Protected Events Enabled
+[06:45:53] [ChocoHax]: [Connect] Jean Heud is joining the server.
+[06:45:53] [DEBUG] Starting checking for Jean Heud
+[06:45:53] [ChocoHax]: [Connect] Jean Heud joined the server.
+[06:46:04] [ChocoHax]: [Connect] Kloé Bellini is joining the server.
+[06:46:04] [DEBUG] Starting checking for Kloé Bellini
+[06:46:04] [ChocoHax]: [Connect] Kloé Bellini joined the server.
+[06:46:11] [ChocoHax]: [Connect] Jago Vaanderplaats is joining the server.
+[06:46:11] [DEBUG] Starting checking for Jago Vaanderplaats
+[06:46:11] [ChocoHax]: [Connect] Jago Vaanderplaats joined the server.
+[06:46:53] [DEBUG] Entity Spawning: Entity: [131073] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[06:46:55] [DEBUG] Entity Spawning: Entity: [131329] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[06:46:55] [DEBUG] Entity Spawning: Entity: [131585] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[06:46:58] [DEBUG] Entity Spawning: Entity: [131841] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:46:58] [DEBUG] Entity Spawning: Entity: [132097] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:46:58] [DEBUG] Entity Spawning: Entity: [132353] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:46:58] [DEBUG] Entity Spawning: Entity: [132609] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:46:58] [DEBUG] Entity Spawning: Entity: [132865] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:46:58] [ChocoHax]: [Warn] - [1] Jean Heud  ~ | AntiNuke 3.0 `Objects` |
+[06:46:58] [DEBUG] [ChocoLog] Warned Player: 1 Jean Heud
+[06:46:59] [DEBUG] Entity Spawning: Entity: [133121] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:46:59] [DEBUG] Entity Spawning: Entity: [133377] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:47:23] [DEBUG] Entity Spawning: Entity: [131843] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[06:47:25] [DEBUG] Entity Spawning: Entity: [132098] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[06:47:28] [DEBUG] Entity Spawning: Entity: [132354] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[06:47:28] [DEBUG] Entity Spawning: Entity: [132610] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[06:47:28] [DEBUG] Entity Spawning: Entity: [134145] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[06:47:28] [DEBUG] Entity Spawning: Entity: [134401] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[06:47:32] [DEBUG] Entity Spawning: Entity: [133634] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:47:32] [DEBUG] Entity Spawning: Entity: [134913] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:47:32] [DEBUG] Entity Spawning: Entity: [135169] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:47:32] [DEBUG] Entity Spawning: Entity: [135425] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:47:32] [DEBUG] Entity Spawning: Entity: [135681] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:47:32] [ChocoHax]: [Warn] - [2] Kloé Bellini  ~ | AntiNuke 3.0 `Objects` |
+[06:47:32] [DEBUG] [ChocoLog] Warned Player: 2 Kloé Bellini
+[06:47:32] [DEBUG] Entity Spawning: Entity: [135937] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:47:32] [DEBUG] Entity Spawning: Entity: [136193] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:47:32] [DEBUG] Entity Spawning: Entity: [135170] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:47:32] [DEBUG] Entity Spawning: Entity: [135426] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:47:32] [DEBUG] Entity Spawning: Entity: [135682] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:47:32] [DEBUG] Entity Spawning: Entity: [135938] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:47:32] [DEBUG] Entity Spawning: Entity: [136194] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:47:32] [ChocoHax]: [Warn] - [3] Jago Vaanderplaats  ~ | AntiNuke 3.0 `Objects` |
+[06:47:32] [DEBUG] [ChocoLog] Warned Player: 3 Jago Vaanderplaats
+[06:47:32] [DEBUG] Entity Spawning: Entity: [136449] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:47:33] [DEBUG] Entity Spawning: Entity: [136705] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:52:24] [DEBUG] Entity Spawning: Entity: [146212] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[06:52:36] [DEBUG] Entity Spawning: Entity: [133671] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[06:52:58] [DEBUG] Entity Spawning: Entity: [144150] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[06:54:46] [DEBUG] Entity Spawning: Entity: [139299] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[06:56:11] [DEBUG] Entity Spawning: Entity: [140075] Spawned By Player: [yes / 7] MODEL [-16948145] TYPE [vehicle]
+[06:56:47] [DEBUG] Entity Spawning: Entity: [136227] Spawned By Player: [yes / 7] MODEL [-16948145] TYPE [vehicle]
+[06:56:53] [ChocoHax]: [Connect] Anthonio Calvarez is joining the server.
+[06:56:53] [DEBUG] Starting checking for Anthonio Calvarez
+[06:56:53] [ChocoHax]: [Connect] Anthonio Calvarez joined the server.
+[06:57:32] [DEBUG] Entity Spawning: Entity: [143114] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[06:57:34] [DEBUG] Entity Spawning: Entity: [133952] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[06:57:45] [ChocoHax]: [Connect] Eilinel Martin is joining the server.
+[06:57:45] [DEBUG] Starting checking for Eilinel Martin
+[06:57:45] [ChocoHax]: [Connect] Eilinel Martin joined the server.
+[06:57:46] [DEBUG] Entity Spawning: Entity: [134983] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[06:57:50] [DEBUG] Entity Spawning: Entity: [139306] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[06:57:50] [DEBUG] Entity Spawning: Entity: [139536] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[06:57:52] [DEBUG] Entity Spawning: Entity: [133955] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[06:57:54] [DEBUG] Entity Spawning: Entity: [136988] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:57:54] [DEBUG] Entity Spawning: Entity: [137502] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:57:54] [DEBUG] Entity Spawning: Entity: [138785] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:57:54] [DEBUG] Entity Spawning: Entity: [140845] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:57:54] [DEBUG] Entity Spawning: Entity: [142609] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:57:54] [ChocoHax]: [Warn] - [4] Anthonio Calvarez  ~ | AntiNuke 3.0 `Objects` |
+[06:57:54] [DEBUG] [ChocoLog] Warned Player: 4 Anthonio Calvarez
+[06:57:54] [DEBUG] Entity Spawning: Entity: [143391] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:57:54] [DEBUG] Entity Spawning: Entity: [143625] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:58:08] [DEBUG] Entity Spawning: Entity: [144905] Spawned By Player: [yes / 7] MODEL [-16948145] TYPE [vehicle]
+[06:58:33] [DEBUG] Entity Spawning: Entity: [136492] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[06:58:35] [DEBUG] Entity Spawning: Entity: [136732] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[06:58:35] [DEBUG] Entity Spawning: Entity: [140344] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[06:58:39] [DEBUG] Entity Spawning: Entity: [141849] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:58:39] [DEBUG] Entity Spawning: Entity: [144160] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:58:39] [DEBUG] Entity Spawning: Entity: [144402] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:58:39] [DEBUG] Entity Spawning: Entity: [144658] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:58:39] [DEBUG] Entity Spawning: Entity: [145166] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:58:39] [ChocoHax]: [Warn] - [5] Eilinel Martin  ~ | AntiNuke 3.0 `Objects` |
+[06:58:39] [DEBUG] [ChocoLog] Warned Player: 5 Eilinel Martin
+[06:58:39] [DEBUG] Entity Spawning: Entity: [145423] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:58:39] [DEBUG] Entity Spawning: Entity: [145675] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[06:59:08] [DEBUG] Entity Spawning: Entity: [139037] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[07:00:07] [ChocoHax]: [Disconnect] Eilinel Martin disconnected. (Exiting)
+[07:00:30] [ChocoHax]: [Connect] Eilinel Martin is joining the server.
+[07:00:30] [DEBUG] Starting checking for Eilinel Martin
+[07:00:31] [ChocoHax]: [Connect] Eilinel Martin joined the server.
+[07:00:57] [DEBUG] Entity Spawning: Entity: [136500] Spawned By Player: [yes / 7] MODEL [-16948145] TYPE [vehicle]
+[07:01:12] [DEBUG] Entity Spawning: Entity: [147992] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[07:01:15] [DEBUG] Entity Spawning: Entity: [150805] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[07:01:15] [DEBUG] Entity Spawning: Entity: [151320] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[07:01:18] [DEBUG] Entity Spawning: Entity: [153867] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:01:18] [DEBUG] Entity Spawning: Entity: [154120] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:01:18] [DEBUG] Entity Spawning: Entity: [154376] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:01:18] [DEBUG] Entity Spawning: Entity: [154629] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:01:18] [DEBUG] Entity Spawning: Entity: [154884] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:01:18] [ChocoHax]: [Warn] - [6] Eilinel Martin  ~ | AntiNuke 3.0 `Objects` |
+[07:01:18] [DEBUG] [ChocoLog] Warned Player: 6 Eilinel Martin
+[07:01:18] [DEBUG] Entity Spawning: Entity: [155141] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:01:18] [DEBUG] Entity Spawning: Entity: [155656] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:01:30] [DEBUG] Entity Spawning: Entity: [143141] Spawned By Player: [yes / 0] MODEL [-775118285] TYPE [object]
+[07:02:24] [DEBUG] Entity Spawning: Entity: [139823] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[07:04:25] [DEBUG] Explosion: 
+[07:04:25] [DEBUG] Explosion: 
+[07:04:30] [DEBUG] Explosion: 
+[07:04:30] [DEBUG] Explosion: 
+[07:04:39] [DEBUG] Entity Spawning: Entity: [140632] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[07:04:45] [DEBUG] Entity Spawning: Entity: [145216] Spawned By Player: [yes / 0] MODEL [746336278] TYPE [object]
+[07:07:21] [DEBUG] Entity Spawning: Entity: [143175] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[07:07:53] [DEBUG] Entity Spawning: Entity: [144214] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[07:07:56] [ChocoHax]: [Disconnect] Anthonio Calvarez disconnected. (Exiting)
+[07:09:32] [DEBUG] Entity Spawning: Entity: [134991] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[07:09:53] [ChocoHax]: [Disconnect] Eilinel Martin disconnected. (Exiting)
+[07:10:07] [DEBUG] Entity Spawning: Entity: [138875] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[07:11:25] [ChocoHax]: [Connect] Eilinel Martin is joining the server.
+[07:11:25] [DEBUG] Starting checking for Eilinel Martin
+[07:11:25] [ChocoHax]: [Connect] Eilinel Martin joined the server.
+[07:11:44] [DEBUG] Entity Spawning: Entity: [136801] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[07:11:50] [DEBUG] Entity Spawning: Entity: [132882] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[07:12:08] [DEBUG] Entity Spawning: Entity: [137068] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[07:12:11] [DEBUG] Entity Spawning: Entity: [134995] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[07:12:11] [DEBUG] Entity Spawning: Entity: [138338] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[07:12:14] [DEBUG] Entity Spawning: Entity: [135195] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:12:14] [DEBUG] Entity Spawning: Entity: [135939] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:12:14] [DEBUG] Entity Spawning: Entity: [137597] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:12:14] [DEBUG] Entity Spawning: Entity: [137809] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:12:14] [DEBUG] Entity Spawning: Entity: [139097] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:12:14] [ChocoHax]: [Warn] - [7] Eilinel Martin  ~ | AntiNuke 3.0 `Objects` |
+[07:12:15] [DEBUG] [ChocoLog] Warned Player: 7 Eilinel Martin
+[07:12:15] [DEBUG] Entity Spawning: Entity: [139551] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:12:15] [DEBUG] Entity Spawning: Entity: [140663] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:12:56] [DEBUG] Entity Spawning: Entity: [141152] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[07:13:02] [DEBUG] Entity Spawning: Entity: [135954] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[07:13:04] [DEBUG] Entity Spawning: Entity: [138763] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[07:13:06] [DEBUG] Entity Spawning: Entity: [132887] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[07:13:14] [DEBUG] Entity Spawning: Entity: [133423] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[07:13:22] [DEBUG] Entity Spawning: Entity: [135207] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[07:13:31] [DEBUG] Entity Spawning: Entity: [139563] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[07:14:09] [DEBUG] Entity Spawning: Entity: [135222] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[07:14:19] [DEBUG] Entity Spawning: Entity: [141665] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[07:14:41] [ChocoHax]: [Disconnect] Eilinel Martin disconnected. (Exiting)
+[07:15:10] [ChocoHax]: [Connect] Eilinel Martin is joining the server.
+[07:15:10] [DEBUG] Starting checking for Eilinel Martin
+[07:15:10] [ChocoHax]: [Connect] Eilinel Martin joined the server.
+[07:15:11] [DEBUG] Entity Spawning: Entity: [137495] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[07:15:51] [DEBUG] Entity Spawning: Entity: [147248] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[07:15:54] [DEBUG] Entity Spawning: Entity: [141179] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[07:15:54] [DEBUG] Entity Spawning: Entity: [141928] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[07:15:57] [DEBUG] Entity Spawning: Entity: [147530] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:15:57] [DEBUG] Entity Spawning: Entity: [148006] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:15:57] [DEBUG] Entity Spawning: Entity: [149049] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:15:57] [DEBUG] Entity Spawning: Entity: [150565] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:15:57] [DEBUG] Entity Spawning: Entity: [151581] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:15:57] [ChocoHax]: [Warn] - [8] Eilinel Martin  ~ | AntiNuke 3.0 `Objects` |
+[07:15:57] [DEBUG] [ChocoLog] Warned Player: 8 Eilinel Martin
+[07:15:57] [DEBUG] Entity Spawning: Entity: [153623] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:15:57] [DEBUG] Entity Spawning: Entity: [153880] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:16:16] [ChocoHax]: [Disconnect] Kloé Bellini disconnected. (Exiting)
+[07:17:46] [ChocoHax]: [Connect] Kloé Bellini is joining the server.
+[07:17:46] [DEBUG] Starting checking for Kloé Bellini
+[07:17:47] [ChocoHax]: [Connect] Kloé Bellini joined the server.
+[07:18:37] [ChocoHax]: [Disconnect] Eilinel Martin disconnected. (Exiting)
+[07:18:43] [DEBUG] Entity Spawning: Entity: [131856] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[07:18:49] [DEBUG] Entity Spawning: Entity: [139015] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[07:18:49] [DEBUG] Entity Spawning: Entity: [143701] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[07:18:53] [DEBUG] Entity Spawning: Entity: [137513] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:18:53] [DEBUG] Entity Spawning: Entity: [138007] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:18:53] [DEBUG] Entity Spawning: Entity: [138361] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:18:53] [DEBUG] Entity Spawning: Entity: [138541] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:18:53] [DEBUG] Entity Spawning: Entity: [139352] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:18:53] [ChocoHax]: [Warn] - [9] Kloé Bellini  ~ | AntiNuke 3.0 `Objects` |
+[07:18:53] [DEBUG] [ChocoLog] Warned Player: 9 Kloé Bellini
+[07:18:53] [DEBUG] Entity Spawning: Entity: [139804] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:18:53] [DEBUG] Entity Spawning: Entity: [140818] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:19:40] [DEBUG] Entity Spawning: Entity: [135477] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[07:21:24] [DEBUG] Entity Spawning: Entity: [132945] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[07:21:28] [DEBUG] Entity Spawning: Entity: [132946] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[07:21:33] [DEBUG] Entity Spawning: Entity: [146771] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[07:22:36] [DEBUG] Entity Spawning: Entity: [132648] Spawned By Player: [yes / 0] MODEL [746336278] TYPE [object]
+[07:23:33] [ChocoHax]: [Connect] Gutavo Torres is joining the server.
+[07:23:33] [ChocoHax]: [Connect] Gutavo Torres is admin and bypassed the login check.
+[07:24:16] [DEBUG] Entity Spawning: Entity: [133735] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[07:24:18] [DEBUG] Entity Spawning: Entity: [146545] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[07:24:18] [DEBUG] Entity Spawning: Entity: [150314] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[07:24:22] [DEBUG] Entity Spawning: Entity: [151329] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:24:22] [DEBUG] Entity Spawning: Entity: [152362] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:24:22] [DEBUG] Entity Spawning: Entity: [154638] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:24:22] [DEBUG] Entity Spawning: Entity: [154893] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:24:22] [DEBUG] Entity Spawning: Entity: [155153] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:24:22] [DEBUG] Entity Spawning: Entity: [155395] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:24:22] [DEBUG] Entity Spawning: Entity: [155668] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:28:09] [DEBUG] Entity Spawning: Entity: [133123] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[07:28:34] [DEBUG] Entity Spawning: Entity: [133905] Spawned By Player: [yes / 0] MODEL [76092178] TYPE [object]
+[07:29:29] [DEBUG] Entity Spawning: Entity: [138273] Spawned By Player: [yes / 7] MODEL [970598228] TYPE [vehicle]
+[07:31:44] [DEBUG] Entity Spawning: Entity: [136806] Spawned By Player: [yes / 0] MODEL [-781595832] TYPE [object]
+[07:32:15] [DEBUG] Entity Spawning: Entity: [138280] Spawned By Player: [yes / 7] MODEL [-1523428744] TYPE [vehicle]
+[07:32:45] [DEBUG] Entity Spawning: Entity: [140320] Spawned By Player: [yes / 7] MODEL [970598228] TYPE [vehicle]
+[07:32:49] [DEBUG] Entity Spawning: Entity: [147026] Spawned By Player: [yes / 7] MODEL [2046537925] TYPE [vehicle]
+[07:32:50] [DEBUG] Entity Spawning: Entity: [147780] Spawned By Player: [yes / 0] MODEL [-2054442544] TYPE [object]
+[07:33:08] [DEBUG] Entity Spawning: Entity: [132453] Spawned By Player: [yes / 7] MODEL [-1973172295] TYPE [vehicle]
+[07:33:14] [DEBUG] Entity Spawning: Entity: [135514] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[07:33:15] [DEBUG] Entity Spawning: Entity: [136964] Spawned By Player: [yes / 7] MODEL [1912215274] TYPE [vehicle]
+[07:37:28] [ChocoHax]: [Ban] - [1] Jean Heud  ~ | Blacklisted Use Weapon  |
+[07:37:28] [ChocoHax]: [Disconnect] Jean Heud disconnected. (〈💗〉 ChocoHax Vous avez été kick du serveur. Si vous trichiez, vous êtes désormais banni. Au revoir.)
+[07:37:28] [DEBUG] [ChocoLog] Dropped Player: 1 Jean Heud
+[07:37:28] [DEBUG] [Bans Saver] Saved Bans in bans.json
+[07:37:28] [DEBUG] [ChocoLog] Banned Player: 1 Jean Heud
+[07:37:29] [DEBUG] [Ban Logger] ok
+[07:38:10] [ChocoHax]: [Connect] Jean Heud is joining the server.
+[07:38:10] [DEBUG] Starting checking for Jean Heud
+[07:38:10] [ChocoHax]: [Connect] Jean Heud is banned from this server.
+[07:38:11] [DEBUG] [Ban Logger] ok
+[07:39:52] [ChocoHax]: [Connect] Jean Heud is joining the server.
+[07:39:52] [DEBUG] Starting checking for Jean Heud
+[07:39:52] [ChocoHax]: [Connect] Jean Heud is banned from this server.
+[07:39:52] [DEBUG] [Ban Logger] ok
+[07:40:07] [ChocoHax]: [Connect] Jean Heud is joining the server.
+[07:40:07] [DEBUG] Starting checking for Jean Heud
+[07:40:07] [ChocoHax]: [Connect] Jean Heud is banned from this server.
+[07:40:08] [DEBUG] [Ban Logger] ok
+[07:49:38] [DEBUG] Entity Spawning: Entity: [142880] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[07:49:45] [DEBUG] Entity Spawning: Entity: [140873] Spawned By Player: [yes / 0] MODEL [-2054442544] TYPE [object]
+[07:49:49] [DEBUG] Entity Spawning: Entity: [140874] Spawned By Player: [yes / 0] MODEL [-775118285] TYPE [object]
+[07:50:02] [ChocoHax]: [Connect] Kloé Bellini is joining the server.
+[07:50:02] [DEBUG] Starting checking for Kloé Bellini
+[07:50:02] [ChocoHax]: [Connect] Kloé Bellini joined the server.
+[07:50:54] [DEBUG] Entity Spawning: Entity: [136747] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[07:50:58] [DEBUG] Entity Spawning: Entity: [154651] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[07:50:58] [DEBUG] Entity Spawning: Entity: [156695] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[07:51:03] [DEBUG] Entity Spawning: Entity: [163842] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:51:03] [DEBUG] Entity Spawning: Entity: [164099] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:51:03] [DEBUG] Entity Spawning: Entity: [164354] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:51:03] [DEBUG] Entity Spawning: Entity: [164610] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:51:03] [DEBUG] Entity Spawning: Entity: [164867] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:51:03] [ChocoHax]: [Warn] - [11] Kloé Bellini  ~ | AntiNuke 3.0 `Objects` |
+[07:51:03] [DEBUG] [ChocoLog] Warned Player: 11 Kloé Bellini
+[07:51:03] [DEBUG] Entity Spawning: Entity: [165122] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:51:03] [DEBUG] Entity Spawning: Entity: [165378] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:52:00] [ChocoHax]: [Connect] Eric Lapointe is joining the server.
+[07:52:00] [DEBUG] Starting checking for Eric Lapointe
+[07:52:00] [ChocoHax]: [Connect] Eric Lapointe joined the server.
+[07:53:09] [DEBUG] Entity Spawning: Entity: [150081] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[07:53:12] [DEBUG] Entity Spawning: Entity: [145922] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[07:53:12] [DEBUG] Entity Spawning: Entity: [148059] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[07:53:16] [DEBUG] Entity Spawning: Entity: [136252] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:53:16] [DEBUG] Entity Spawning: Entity: [139539] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:53:16] [DEBUG] Entity Spawning: Entity: [143705] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:53:16] [DEBUG] Entity Spawning: Entity: [150826] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:53:16] [DEBUG] Entity Spawning: Entity: [157712] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:53:16] [ChocoHax]: [Warn] - [12] Eric Lapointe  ~ | AntiNuke 3.0 `Objects` |
+[07:53:16] [DEBUG] [ChocoLog] Warned Player: 12 Eric Lapointe
+[07:53:16] [DEBUG] Entity Spawning: Entity: [157989] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:53:16] [DEBUG] Entity Spawning: Entity: [158225] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[07:54:15] [DEBUG] Entity Spawning: Entity: [158486] Spawned By Player: [yes / 7] MODEL [1682114128] TYPE [vehicle]
+[07:54:42] [DEBUG] Entity Spawning: Entity: [141863] Spawned By Player: [yes / 7] MODEL [-16948145] TYPE [vehicle]
+[07:57:04] [ChocoHax]: [Connect] Jean Heud is joining the server.
+[07:57:04] [DEBUG] Starting checking for Jean Heud
+[07:57:04] [ChocoHax]: [Connect] Jean Heud is banned from this server.
+[07:57:05] [DEBUG] [Ban Logger] ok
+[07:59:34] [DEBUG] Entity Spawning: Entity: [135741] Spawned By Player: [yes / 7] MODEL [1912215274] TYPE [vehicle]
+[08:01:32] [DEBUG] Entity Spawning: Entity: [138352] Spawned By Player: [yes / 0] MODEL [-781595832] TYPE [object]
+[08:03:32] [DEBUG] Entity Spawning: Entity: [158005] Spawned By Player: [yes / 7] MODEL [-1255698084] TYPE [vehicle]
+[08:03:50] [DEBUG] Entity Spawning: Entity: [159525] Spawned By Player: [yes / 7] MODEL [-1041692462] TYPE [vehicle]
+[08:05:13] [DEBUG] Entity Spawning: Entity: [159777] Spawned By Player: [yes / 7] MODEL [-1106353882] TYPE [vehicle]
+[08:06:21] [DEBUG] Entity Spawning: Entity: [133450] Spawned By Player: [yes / 7] MODEL [782665360] TYPE [vehicle]
+[08:09:23] [DEBUG] Entity Spawning: Entity: [164662] Spawned By Player: [yes / 7] MODEL [970598228] TYPE [vehicle]
+[08:09:58] [DEBUG] Entity Spawning: Entity: [132717] Spawned By Player: [yes / 7] MODEL [1912215274] TYPE [vehicle]
+[08:10:04] [DEBUG] Entity Spawning: Entity: [153701] Spawned By Player: [yes / 0] MODEL [746336278] TYPE [object]
+[08:11:04] [DEBUG] Explosion: 
+[08:11:04] [DEBUG] Explosion: 
+[08:12:02] [DEBUG] Entity Spawning: Entity: [154955] Spawned By Player: [yes / 0] MODEL [-2054442544] TYPE [object]
+[08:15:44] [DEBUG] Entity Spawning: Entity: [137336] Spawned By Player: [yes / 7] MODEL [-1763555241] TYPE [vehicle]
+[08:16:15] [DEBUG] Entity Spawning: Entity: [133502] Spawned By Player: [yes / 7] MODEL [-1281684762] TYPE [vehicle]
+[08:16:15] [DEBUG] Entity Spawning: Entity: [133503] Spawned By Player: [yes / 7] MODEL [-1281684762] TYPE [vehicle]
+[08:16:28] [DEBUG] Entity Spawning: Entity: [132447] Spawned By Player: [yes / 7] MODEL [621481054] TYPE [vehicle]
+[08:16:40] [DEBUG] Entity Spawning: Entity: [132724] Spawned By Player: [yes / 7] MODEL [-312295511] TYPE [vehicle]
+[08:17:12] [DEBUG] [Loading] Player Gutavo Torres loading the anticheat
+[08:17:12] [DEBUG] [Loading] Player Kloé Bellini loading the anticheat
+[08:17:12] [ChocoHax Warning]: [Trust Factor] Your TrustFactor APIKey is missing, TrustFactor check disabled
+[08:17:22] [DEBUG] [Loading] Sending Heartbeat Check
+[08:17:22] [DEBUG] [Loading] Player Gutavo Torres loaded the anticheat
+[08:18:07] [DEBUG] Player Kloé Bellini already loaded the anticheat
+[08:18:07] [DEBUG] Player Gutavo Torres already loaded the anticheat
+[08:18:28] [DEBUG] Entity Spawning: Entity: [132610] Spawned By Player: [yes / 7] MODEL [970598228] TYPE [vehicle]
+[08:19:37] [DEBUG] Entity Spawning: Entity: [133392] Spawned By Player: [yes / 7] MODEL [-50547061] TYPE [vehicle]
+[08:19:45] [DEBUG] Entity Spawning: Entity: [132479] Spawned By Player: [yes / 7] MODEL [-1660661558] TYPE [vehicle]
+[08:21:05] [DEBUG] Player Gutavo Torres already loaded the anticheat
+[08:21:05] [DEBUG] Player Kloé Bellini already loaded the anticheat
+[08:21:51] [DEBUG] Entity Spawning: Entity: [139629] Spawned By Player: [yes / 7] MODEL [1491277511] TYPE [vehicle]
+[08:23:15] [ChocoHax]: [Connect] Yuri Borsalino is joining the server.
+[08:23:15] [DEBUG] Starting checking for Yuri Borsalino
+[08:23:15] [ChocoHax]: [Connect] Yuri Borsalino joined the server.
+[08:23:19] [DEBUG] Player Gutavo Torres already loaded the anticheat
+[08:24:12] [ChocoHax]: [Disconnect] Kloé Bellini disconnected. (
+[txAdmin] (lilian) Kick reason: recotoi)
+[08:24:18] [DEBUG] Entity Spawning: Entity: [139845] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[08:24:20] [DEBUG] Entity Spawning: Entity: [131335] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[08:24:20] [DEBUG] Entity Spawning: Entity: [134764] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[08:24:23] [DEBUG] Entity Spawning: Entity: [137762] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[08:24:23] [DEBUG] Entity Spawning: Entity: [138343] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[08:24:23] [DEBUG] Entity Spawning: Entity: [138861] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[08:24:23] [DEBUG] Entity Spawning: Entity: [143627] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[08:24:23] [DEBUG] Entity Spawning: Entity: [148228] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[08:24:24] [ChocoHax]: [Warn] - [13] Yuri Borsalino  ~ | AntiNuke 3.0 `Objects` |
+[08:24:24] [DEBUG] [ChocoLog] Warned Player: 13 Yuri Borsalino
+[08:24:24] [DEBUG] Entity Spawning: Entity: [148498] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[08:24:24] [DEBUG] Entity Spawning: Entity: [148738] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[08:24:28] [ChocoHax]: [Connect] Kloé Bellini is joining the server.
+[08:24:28] [DEBUG] Starting checking for Kloé Bellini
+[08:24:28] [ChocoHax]: [Connect] Kloé Bellini joined the server.
+[08:25:38] [DEBUG] Entity Spawning: Entity: [143997] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[08:25:43] [DEBUG] Entity Spawning: Entity: [148741] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[08:25:43] [DEBUG] Entity Spawning: Entity: [148993] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[08:25:47] [DEBUG] Entity Spawning: Entity: [151624] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[08:25:47] [DEBUG] Entity Spawning: Entity: [151898] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[08:25:47] [DEBUG] Entity Spawning: Entity: [152129] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[08:25:47] [DEBUG] Entity Spawning: Entity: [152425] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[08:25:47] [DEBUG] Entity Spawning: Entity: [152688] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[08:25:47] [ChocoHax]: [Warn] - [14] Kloé Bellini  ~ | AntiNuke 3.0 `Objects` |
+[08:25:47] [DEBUG] [ChocoLog] Warned Player: 14 Kloé Bellini
+[08:25:47] [DEBUG] Entity Spawning: Entity: [152839] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[08:25:47] [DEBUG] Entity Spawning: Entity: [153158] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[08:25:55] [DEBUG] Player Gutavo Torres already loaded the anticheat
+[08:28:34] [DEBUG] Entity Spawning: Entity: [140572] Spawned By Player: [yes / 0] MODEL [680380202] TYPE [object]
+[08:29:51] [DEBUG] Entity Spawning: Entity: [154972] Spawned By Player: [yes / 0] MODEL [-1916111695] TYPE [object]
+[08:29:55] [DEBUG] Entity Spawning: Entity: [139368] Spawned By Player: [yes / 0] MODEL [-1916111695] TYPE [object]
+[08:30:38] [DEBUG] Entity Spawning: Entity: [136280] Spawned By Player: [yes / 0] MODEL [-598185919] TYPE [object]
+[08:30:41] [DEBUG] Entity Spawning: Entity: [136281] Spawned By Player: [yes / 0] MODEL [-447760697] TYPE [object]
+[08:30:45] [DEBUG] Entity Spawning: Entity: [141432] Spawned By Player: [yes / 0] MODEL [-447760697] TYPE [object]
+[08:30:49] [DEBUG] Entity Spawning: Entity: [151154] Spawned By Player: [yes / 0] MODEL [-447760697] TYPE [object]
+[08:31:17] [DEBUG] Entity Spawning: Entity: [135494] Spawned By Player: [yes / 7] MODEL [-16948145] TYPE [vehicle]
+[08:31:57] [DEBUG] Entity Spawning: Entity: [140804] Spawned By Player: [yes / 0] MODEL [-775118285] TYPE [object]
+[08:32:04] [DEBUG] Entity Spawning: Entity: [153432] Spawned By Player: [yes / 0] MODEL [76092178] TYPE [object]
+[08:33:44] [DEBUG] Entity Spawning: Entity: [137553] Spawned By Player: [yes / 0] MODEL [-775118285] TYPE [object]
+[08:34:05] [DEBUG] Player Gutavo Torres already loaded the anticheat
+[08:34:05] [DEBUG] [Loading] Player Yuri Borsalino loading the anticheat
+[08:34:05] [DEBUG] [Loading] Player Jago Vaanderplaats loading the anticheat
+[08:34:15] [DEBUG] [Loading] Sending Heartbeat Check
+[08:34:15] [DEBUG] [Loading] Player Yuri Borsalino loaded the anticheat
+[08:34:29] [DEBUG] Entity Spawning: Entity: [131153] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[08:34:34] [DEBUG] Entity Spawning: Entity: [138602] Spawned By Player: [yes / 0] MODEL [1407197773] TYPE [object]
+[08:34:55] [DEBUG] Entity Spawning: Entity: [136203] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[08:37:13] [DEBUG] [Loading] Player Kloé Bellini loading the anticheat
+[08:37:13] [DEBUG] Player Gutavo Torres already loaded the anticheat
+[08:37:23] [DEBUG] [Loading] Sending Heartbeat Check
+[08:37:23] [DEBUG] [Loading] Player Kloé Bellini loaded the anticheat
+[08:38:30] [DEBUG] Entity Spawning: Entity: [137581] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[08:38:32] [ChocoHax Error]: Screenshot Request Failed for Yuri Borsalino Screenshot-Basic not found.
+[08:38:56] [ChocoHax]: [Connect] 123 is joining the server.
+[08:38:56] [ChocoHax]: [Connect] 123 is admin and bypassed the login check.
+[08:39:53] [DEBUG] Entity Spawning: Entity: [146770] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[08:39:57] [DEBUG] Entity Spawning: Entity: [137593] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[08:39:57] [DEBUG] Entity Spawning: Entity: [138818] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[08:40:01] [DEBUG] Entity Spawning: Entity: [154978] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[08:40:01] [DEBUG] Entity Spawning: Entity: [155758] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[08:40:01] [DEBUG] Entity Spawning: Entity: [155994] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[08:40:01] [DEBUG] Entity Spawning: Entity: [156236] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[08:40:01] [DEBUG] Entity Spawning: Entity: [156469] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[08:40:01] [DEBUG] Entity Spawning: Entity: [156701] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[08:40:01] [DEBUG] Entity Spawning: Entity: [157002] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[08:40:39] [DEBUG] Entity Spawning: Entity: [135198] Spawned By Player: [yes / 7] MODEL [-1746576111] TYPE [vehicle]
+[08:40:55] [DEBUG] Explosion: 
+[08:40:59] [DEBUG] Player Gutavo Torres already loaded the anticheat
+[08:40:59] [DEBUG] Player Kloé Bellini already loaded the anticheat
+[08:41:19] [DEBUG] Player Kloé Bellini already loaded the anticheat
+[08:41:19] [DEBUG] Player Gutavo Torres already loaded the anticheat
+[08:41:39] [DEBUG] Entity Spawning: Entity: [157765] Spawned By Player: [yes / 7] MODEL [-845961253] TYPE [vehicle]
+[08:42:22] [DEBUG] Entity Spawning: Entity: [155648] Spawned By Player: [yes / 7] MODEL [-1435919434] TYPE [vehicle]
+[08:42:33] [DEBUG] Entity Spawning: Entity: [148524] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[08:42:51] [ChocoHax]: [Disconnect] 123 disconnected. (Exiting)
+[08:43:10] [DEBUG] Entity Spawning: Entity: [132352] Spawned By Player: [yes / 7] MODEL [-1435919434] TYPE [vehicle]
+[08:43:13] [DEBUG] Entity Spawning: Entity: [149266] Spawned By Player: [yes / 7] MODEL [-1435919434] TYPE [vehicle]
+[08:43:28] [ChocoHax]: [Disconnect] Gutavo Torres disconnected. (Exiting)
+[08:48:56] [DEBUG] Entity Spawning: Entity: [133223] Spawned By Player: [yes / 7] MODEL [1682114128] TYPE [vehicle]
+[08:49:09] [DEBUG] Entity Spawning: Entity: [151583] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[08:49:11] [DEBUG] Entity Spawning: Entity: [168737] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[08:49:13] [ChocoHax Error]: Screenshot Request Failed for Yuri Borsalino Screenshot-Basic not found.
+[08:49:14] [ChocoHax Error]: Screenshot Request Failed for Jago Vaanderplaats Screenshot-Basic not found.
+[08:50:06] [ChocoHax Error]: Screenshot Request Failed for Jago Vaanderplaats Screenshot-Basic not found.
+[08:50:49] [ChocoHax Error]: Screenshot Request Failed for Jago Vaanderplaats Screenshot-Basic not found.
+[08:51:10] [DEBUG] Entity Spawning: Entity: [138553] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[08:52:34] [ChocoHax Error]: Screenshot Request Failed for Yuri Borsalino Screenshot-Basic not found.
+[08:52:37] [DEBUG] Entity Spawning: Entity: [137288] Spawned By Player: [yes / 0] MODEL [-2054442544] TYPE [object]
+[08:53:16] [ChocoHax]: [Connect] ✪ MΛX I Diego Flores is joining the server.
+[08:53:16] [DEBUG] Starting checking for ✪ MΛX I Diego Flores
+[08:53:16] [ChocoHax]: [Connect] ✪ MΛX I Diego Flores joined the server.
+[08:54:21] [DEBUG] Entity Spawning: Entity: [141663] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[08:54:23] [DEBUG] Entity Spawning: Entity: [140552] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[08:54:23] [DEBUG] Entity Spawning: Entity: [146216] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[08:54:26] [DEBUG] Entity Spawning: Entity: [133152] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[08:54:26] [DEBUG] Entity Spawning: Entity: [133951] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[08:54:26] [DEBUG] Entity Spawning: Entity: [135281] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[08:54:26] [DEBUG] Entity Spawning: Entity: [136048] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[08:54:26] [DEBUG] Entity Spawning: Entity: [136725] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[08:54:27] [ChocoHax]: [Warn] - [16] ✪ MΛX I Diego Flores  ~ | AntiNuke 3.0 `Objects` |
+[08:54:27] [DEBUG] [ChocoLog] Warned Player: 16 ✪ MΛX I Diego Flores
+[08:54:27] [DEBUG] Entity Spawning: Entity: [137560] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[08:54:27] [DEBUG] Entity Spawning: Entity: [138825] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[08:55:04] [DEBUG] Entity Spawning: Entity: [158076] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[08:55:14] [ChocoHax]: [Disconnect] ✪ MΛX I Diego Flores disconnected. (Exiting)
+[08:56:43] [ChocoHax Error]: Screenshot Request Failed for Jago Vaanderplaats Screenshot-Basic not found.
+[08:59:57] [ChocoHax Error]: Screenshot Request Failed for Yuri Borsalino Screenshot-Basic not found.
+[09:00:02] [DEBUG] Entity Spawning: Entity: [155921] Spawned By Player: [yes / 0] MODEL [-775118285] TYPE [object]
+[09:00:50] [DEBUG] Entity Spawning: Entity: [133245] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[09:00:51] [ChocoHax Error]: Screenshot Request Failed for Yuri Borsalino Screenshot-Basic not found.
+[09:01:18] [ChocoHax]: [Disconnect] Eric Lapointe disconnected. (Exiting)
+[09:03:16] [DEBUG] Entity Spawning: Entity: [137087] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[09:03:18] [ChocoHax Error]: Screenshot Request Failed for Yuri Borsalino Screenshot-Basic not found.
+[09:06:07] [ChocoHax]: [Connect] Antonio Castello is joining the server.
+[09:06:07] [ChocoHax]: [Connect] Antonio Castello is admin and bypassed the login check.
+[09:06:53] [DEBUG] Entity Spawning: Entity: [147275] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[09:06:55] [DEBUG] Entity Spawning: Entity: [136809] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[09:06:55] [DEBUG] Entity Spawning: Entity: [150627] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[09:06:58] [DEBUG] Entity Spawning: Entity: [146730] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:06:58] [DEBUG] Entity Spawning: Entity: [152922] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:06:58] [DEBUG] Entity Spawning: Entity: [153135] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:06:58] [DEBUG] Entity Spawning: Entity: [153397] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:06:58] [DEBUG] Entity Spawning: Entity: [153716] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:06:58] [DEBUG] Entity Spawning: Entity: [153909] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:06:58] [DEBUG] Entity Spawning: Entity: [154146] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:07:03] [ChocoHax]: [Connect] Eric Lapointe is joining the server.
+[09:07:03] [DEBUG] Starting checking for Eric Lapointe
+[09:07:03] [ChocoHax]: [Connect] Eric Lapointe joined the server.
+[09:07:38] [DEBUG] Entity Spawning: Entity: [145204] Spawned By Player: [yes / 7] MODEL [941800958] TYPE [vehicle]
+[09:07:47] [DEBUG] Entity Spawning: Entity: [142885] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[09:07:49] [DEBUG] Entity Spawning: Entity: [151360] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[09:07:49] [DEBUG] Entity Spawning: Entity: [153912] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[09:07:53] [DEBUG] Entity Spawning: Entity: [131194] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:07:53] [DEBUG] Entity Spawning: Entity: [137769] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:07:53] [DEBUG] Entity Spawning: Entity: [139270] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:07:53] [DEBUG] Entity Spawning: Entity: [140365] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:07:53] [DEBUG] Entity Spawning: Entity: [141436] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:07:53] [ChocoHax]: [Warn] - [18] Eric Lapointe  ~ | AntiNuke 3.0 `Objects` |
+[09:07:53] [DEBUG] [ChocoLog] Warned Player: 18 Eric Lapointe
+[09:07:53] [DEBUG] Entity Spawning: Entity: [142148] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:07:53] [DEBUG] Entity Spawning: Entity: [144764] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:08:43] [DEBUG] Entity Spawning: Entity: [133969] Spawned By Player: [yes / 7] MODEL [1682114128] TYPE [vehicle]
+[09:09:20] [DEBUG] Entity Spawning: Entity: [150108] Spawned By Player: [yes / 0] MODEL [-775118285] TYPE [object]
+[09:09:27] [ChocoHax Error]: Screenshot Request Failed for Jago Vaanderplaats Screenshot-Basic not found.
+[09:10:08] [DEBUG] Entity Spawning: Entity: [131911] Spawned By Player: [yes / 0] MODEL [-2054442544] TYPE [object]
+[09:10:21] [ChocoHax]: [Disconnect] Antonio Castello disconnected. (Exiting)
+[09:14:15] [ChocoHax]: [Disconnect] Yuri Borsalino disconnected. (Exiting)
+[09:15:33] [ChocoHax]: [Connect] Bruce Cortes is joining the server.
+[09:15:33] [DEBUG] Starting checking for Bruce Cortes
+[09:15:33] [ChocoHax]: [Connect] Bruce Cortes joined the server.
+[09:16:25] [ChocoHax Error]: Screenshot Request Failed for Kloé Bellini Screenshot-Basic not found.
+[09:16:27] [DEBUG] Entity Spawning: Entity: [143726] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[09:16:32] [ChocoHax]: [Connect] Robert Aaron is joining the server.
+[09:16:32] [DEBUG] Starting checking for Robert Aaron
+[09:16:32] [ChocoHax]: [Connect] Robert Aaron joined the server.
+[09:16:48] [DEBUG] Entity Spawning: Entity: [136744] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[09:16:55] [DEBUG] Entity Spawning: Entity: [133378] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[09:16:55] [DEBUG] Entity Spawning: Entity: [135211] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[09:17:00] [DEBUG] Entity Spawning: Entity: [147033] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:17:00] [DEBUG] Entity Spawning: Entity: [150633] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:17:00] [DEBUG] Entity Spawning: Entity: [151154] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:17:00] [DEBUG] Entity Spawning: Entity: [151660] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:17:00] [DEBUG] Entity Spawning: Entity: [151932] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:17:00] [ChocoHax]: [Warn] - [19] Bruce Cortes  ~ | AntiNuke 3.0 `Objects` |
+[09:17:00] [DEBUG] [ChocoLog] Warned Player: 19 Bruce Cortes
+[09:17:00] [DEBUG] Entity Spawning: Entity: [152127] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:17:00] [DEBUG] Entity Spawning: Entity: [152357] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:17:16] [ChocoHax Error]: Screenshot Request Failed for Jago Vaanderplaats Screenshot-Basic not found.
+[09:18:09] [DEBUG] Entity Spawning: Entity: [148514] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[09:18:13] [DEBUG] Entity Spawning: Entity: [138878] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[09:18:13] [DEBUG] Entity Spawning: Entity: [139314] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[09:18:16] [DEBUG] Entity Spawning: Entity: [138501] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:18:16] [DEBUG] Entity Spawning: Entity: [157802] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:18:16] [DEBUG] Entity Spawning: Entity: [162667] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:18:16] [DEBUG] Entity Spawning: Entity: [162900] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:18:16] [DEBUG] Entity Spawning: Entity: [163420] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:18:17] [ChocoHax]: [Warn] - [20] Robert Aaron  ~ | AntiNuke 3.0 `Objects` |
+[09:18:17] [DEBUG] [ChocoLog] Warned Player: 20 Robert Aaron
+[09:18:17] [DEBUG] Entity Spawning: Entity: [163675] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:18:17] [DEBUG] Entity Spawning: Entity: [163936] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:20:36] [ChocoHax Error]: Screenshot Request Failed for Jago Vaanderplaats Screenshot-Basic not found.
+[09:25:01] [DEBUG] Explosion: 
+[09:27:20] [ChocoHax]: [Connect] Kloé Bellini is joining the server.
+[09:27:20] [DEBUG] Starting checking for Kloé Bellini
+[09:27:20] [ChocoHax]: [Connect] Kloé Bellini joined the server.
+[09:28:15] [DEBUG] Entity Spawning: Entity: [134773] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[09:28:20] [DEBUG] Entity Spawning: Entity: [141062] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[09:28:20] [DEBUG] Entity Spawning: Entity: [141382] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[09:28:24] [DEBUG] Entity Spawning: Entity: [139058] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:28:24] [DEBUG] Entity Spawning: Entity: [139621] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:28:24] [DEBUG] Entity Spawning: Entity: [140567] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:28:24] [DEBUG] Entity Spawning: Entity: [140873] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:28:24] [DEBUG] Entity Spawning: Entity: [142117] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:28:24] [ChocoHax]: [Warn] - [21] Kloé Bellini  ~ | AntiNuke 3.0 `Objects` |
+[09:28:24] [DEBUG] [ChocoLog] Warned Player: 21 Kloé Bellini
+[09:28:24] [DEBUG] Entity Spawning: Entity: [142371] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:28:24] [DEBUG] Entity Spawning: Entity: [143222] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:28:31] [DEBUG] Entity Spawning: Entity: [131711] Spawned By Player: [yes / 7] MODEL [-344943009] TYPE [vehicle]
+[09:32:34] [DEBUG] Entity Spawning: Entity: [139822] Spawned By Player: [yes / 0] MODEL [-2054442544] TYPE [object]
+[09:32:38] [DEBUG] Entity Spawning: Entity: [137801] Spawned By Player: [yes / 0] MODEL [-775118285] TYPE [object]
+[09:32:53] [DEBUG] Entity Spawning: Entity: [138257] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[09:33:07] [ChocoHax]: [Connect] Amado Mora is joining the server.
+[09:33:07] [DEBUG] Starting checking for Amado Mora
+[09:33:07] [ChocoHax]: [Connect] Amado Mora joined the server.
+[09:33:15] [DEBUG] Entity Spawning: Entity: [132677] Spawned By Player: [yes / 0] MODEL [-2054442544] TYPE [object]
+[09:33:18] [DEBUG] Entity Spawning: Entity: [132678] Spawned By Player: [yes / 0] MODEL [-775118285] TYPE [object]
+[09:33:52] [DEBUG] Entity Spawning: Entity: [143120] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[09:33:54] [DEBUG] Entity Spawning: Entity: [138592] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[09:33:54] [DEBUG] Entity Spawning: Entity: [140394] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[09:33:58] [DEBUG] Entity Spawning: Entity: [143907] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:33:58] [DEBUG] Entity Spawning: Entity: [145173] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:33:58] [DEBUG] Entity Spawning: Entity: [146185] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:33:58] [DEBUG] Entity Spawning: Entity: [146444] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:33:58] [DEBUG] Entity Spawning: Entity: [146806] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:33:58] [ChocoHax]: [Warn] - [22] Amado Mora  ~ | AntiNuke 3.0 `Objects` |
+[09:33:58] [DEBUG] [ChocoLog] Warned Player: 22 Amado Mora
+[09:33:58] [DEBUG] Entity Spawning: Entity: [146950] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:33:58] [DEBUG] Entity Spawning: Entity: [147319] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:34:20] [DEBUG] Entity Spawning: Entity: [138261] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[09:35:03] [ChocoHax]: [Disconnect] Amado Mora disconnected. (Exiting)
+[09:37:29] [DEBUG] Entity Spawning: Entity: [143685] Spawned By Player: [yes / 7] MODEL [1682114128] TYPE [vehicle]
+[09:43:00] [ChocoHax]: [Disconnect] Robert Aaron disconnected. (Disconnected.)
+[09:45:05] [ChocoHax]: [Connect] Robert Aaron is joining the server.
+[09:45:05] [DEBUG] Starting checking for Robert Aaron
+[09:45:05] [ChocoHax]: [Connect] Robert Aaron joined the server.
+[09:45:46] [ChocoHax Error]: Screenshot Request Failed for Jago Vaanderplaats Screenshot-Basic not found.
+[09:45:48] [DEBUG] Entity Spawning: Entity: [134981] Spawned By Player: [yes / 0] MODEL [-2054442544] TYPE [object]
+[09:46:09] [DEBUG] Entity Spawning: Entity: [136995] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[09:46:20] [DEBUG] Entity Spawning: Entity: [145738] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:46:20] [DEBUG] Entity Spawning: Entity: [147215] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:46:20] [DEBUG] Entity Spawning: Entity: [147475] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:46:20] [DEBUG] Entity Spawning: Entity: [148224] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:46:20] [DEBUG] Entity Spawning: Entity: [149817] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:46:21] [ChocoHax]: [Warn] - [23] Robert Aaron  ~ | AntiNuke 3.0 `Objects` |
+[09:46:21] [DEBUG] [ChocoLog] Warned Player: 23 Robert Aaron
+[09:46:21] [DEBUG] Entity Spawning: Entity: [150549] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:46:21] [DEBUG] Entity Spawning: Entity: [150841] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:46:21] [DEBUG] Entity Spawning: Entity: [151569] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:48:00] [ChocoHax Error]: Screenshot Request Failed for Jago Vaanderplaats Screenshot-Basic not found.
+[09:50:32] [ChocoHax]: [Disconnect] Robert Aaron disconnected. (Disconnected.)
+[09:52:14] [DEBUG] Entity Spawning: Entity: [131336] Spawned By Player: [yes / 7] MODEL [1682114128] TYPE [vehicle]
+[09:52:47] [ChocoHax]: [Connect] Robert Aaron is joining the server.
+[09:52:47] [DEBUG] Starting checking for Robert Aaron
+[09:52:47] [ChocoHax]: [Connect] Robert Aaron joined the server.
+[09:53:43] [DEBUG] Entity Spawning: Entity: [150856] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[09:53:49] [DEBUG] Entity Spawning: Entity: [159542] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[09:53:49] [DEBUG] Entity Spawning: Entity: [166475] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[09:53:53] [DEBUG] Entity Spawning: Entity: [139123] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:53:53] [DEBUG] Entity Spawning: Entity: [165179] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:53:53] [DEBUG] Entity Spawning: Entity: [165717] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:53:53] [DEBUG] Entity Spawning: Entity: [168748] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:53:53] [DEBUG] Entity Spawning: Entity: [169000] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:53:53] [ChocoHax]: [Warn] - [24] Robert Aaron  ~ | AntiNuke 3.0 `Objects` |
+[09:53:53] [DEBUG] [ChocoLog] Warned Player: 24 Robert Aaron
+[09:53:53] [DEBUG] Entity Spawning: Entity: [169248] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:53:53] [DEBUG] Entity Spawning: Entity: [169509] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:53:53] [DEBUG] Entity Spawning: Entity: [169758] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:53:53] [DEBUG] Entity Spawning: Entity: [170017] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:53:53] [DEBUG] Entity Spawning: Entity: [170272] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:53:53] [DEBUG] Entity Spawning: Entity: [170515] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[09:54:12] [ChocoHax]: [Disconnect] Kloé Bellini disconnected. (Exiting)
+[09:57:55] [DEBUG] Entity Spawning: Entity: [155457] Spawned By Player: [yes / 0] MODEL [-775118285] TYPE [object]
+[09:57:58] [DEBUG] Entity Spawning: Entity: [148548] Spawned By Player: [yes / 0] MODEL [-775118285] TYPE [object]
+[09:58:31] [DEBUG] Entity Spawning: Entity: [139846] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[10:01:55] [ChocoHax Error]: Screenshot Request Failed for Jago Vaanderplaats Screenshot-Basic not found.
+[10:06:00] [ChocoHax]: [Connect] Amado Mora is joining the server.
+[10:06:00] [DEBUG] Starting checking for Amado Mora
+[10:06:00] [ChocoHax]: [Connect] Amado Mora joined the server.
+[10:06:00] [DEBUG] Entity Spawning: Entity: [132947] Spawned By Player: [yes / 7] MODEL [941494461] TYPE [vehicle]
+[10:06:00] [ChocoHax]: [Ban] - [24] Robert Aaron  ~ | Entities Blacklisted Vehicle |
+[10:06:01] [ChocoHax]: [Disconnect] Robert Aaron disconnected. (〈💗〉 ChocoHax Vous avez été kick du serveur. Si vous trichiez, vous êtes désormais banni. Au revoir.)
+[10:06:01] [DEBUG] [ChocoLog] Dropped Player: 24 Robert Aaron
+[10:06:01] [DEBUG] [Bans Saver] Saved Bans in bans.json
+[10:06:01] [DEBUG] [ChocoLog] Banned Player: 24 Robert Aaron
+[10:06:01] [DEBUG] [Ban Logger] ok
+[10:06:42] [DEBUG] Entity Spawning: Entity: [131656] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[10:06:44] [DEBUG] Entity Spawning: Entity: [133232] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[10:06:44] [DEBUG] Entity Spawning: Entity: [133472] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[10:06:47] [DEBUG] Entity Spawning: Entity: [134715] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:06:47] [DEBUG] Entity Spawning: Entity: [135001] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:06:47] [DEBUG] Entity Spawning: Entity: [135184] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:06:47] [DEBUG] Entity Spawning: Entity: [135521] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:06:47] [DEBUG] Entity Spawning: Entity: [135694] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:06:47] [ChocoHax]: [Warn] - [25] Amado Mora  ~ | AntiNuke 3.0 `Objects` |
+[10:06:47] [DEBUG] [ChocoLog] Warned Player: 25 Amado Mora
+[10:06:47] [DEBUG] Entity Spawning: Entity: [135972] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:06:47] [DEBUG] Entity Spawning: Entity: [136254] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:08:16] [ChocoHax]: [Connect] Robert Aaron is joining the server.
+[10:08:16] [DEBUG] Starting checking for Robert Aaron
+[10:08:16] [ChocoHax]: [Connect] Robert Aaron is banned from this server.
+[10:08:17] [DEBUG] [Ban Logger] ok
+[10:08:42] [ChocoHax]: [Connect] 123 is joining the server.
+[10:08:42] [ChocoHax]: [Connect] 123 is admin and bypassed the login check.
+[10:09:41] [DEBUG] Entity Spawning: Entity: [135536] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[10:09:45] [DEBUG] Entity Spawning: Entity: [136475] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[10:09:45] [DEBUG] Entity Spawning: Entity: [138031] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[10:09:50] [DEBUG] Entity Spawning: Entity: [137551] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:09:50] [DEBUG] Entity Spawning: Entity: [138522] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:09:50] [DEBUG] Entity Spawning: Entity: [139538] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:09:50] [DEBUG] Entity Spawning: Entity: [141650] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:09:50] [DEBUG] Entity Spawning: Entity: [142395] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:09:50] [DEBUG] Entity Spawning: Entity: [143121] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:09:50] [DEBUG] Entity Spawning: Entity: [143458] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:09:56] [ChocoHax]: [Connect] Diego Rodriguez is joining the server.
+[10:09:56] [DEBUG] Starting checking for Diego Rodriguez
+[10:09:56] [ChocoHax]: [Connect] Diego Rodriguez joined the server.
+[10:10:38] [ChocoHax]: [Connect] Diego Rodriguez is joining the server.
+[10:10:38] [DEBUG] Starting checking for Diego Rodriguez
+[10:10:38] [ChocoHax]: [Connect] Diego Rodriguez joined the server.
+[10:11:43] [DEBUG] Entity Spawning: Entity: [139313] Spawned By Player: [yes / 0] MODEL [-1036807324] TYPE [object]
+[10:11:44] [DEBUG] Entity Spawning: Entity: [132865] Spawned By Player: [yes / 0] MODEL [765541575] TYPE [object]
+[10:12:56] [ChocoHax]: [Disconnect] Amado Mora disconnected. (Exiting)
+[10:13:14] [ChocoHax]: [Connect] Diego Rodriguez is joining the server.
+[10:13:14] [DEBUG] Starting checking for Diego Rodriguez
+[10:13:15] [ChocoHax]: [Connect] Diego Rodriguez joined the server.
+[10:13:17] [ChocoHax]: [Connect] Apocalypse [Alexander Azarov] is joining the server.
+[10:13:17] [DEBUG] Starting checking for Apocalypse [Alexander Azarov]
+[10:13:18] [ChocoHax]: [Connect] Apocalypse [Alexander Azarov] joined the server.
+[10:14:07] [ChocoHax]: [Connect] Amado Mora is joining the server.
+[10:14:07] [DEBUG] Starting checking for Amado Mora
+[10:14:07] [ChocoHax]: [Connect] Amado Mora joined the server.
+[10:14:19] [DEBUG] Entity Spawning: Entity: [133758] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[10:14:22] [DEBUG] Entity Spawning: Entity: [137317] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[10:14:22] [DEBUG] Entity Spawning: Entity: [138856] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[10:14:26] [DEBUG] Entity Spawning: Entity: [136766] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:14:26] [DEBUG] Entity Spawning: Entity: [141674] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:14:26] [DEBUG] Entity Spawning: Entity: [147551] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:14:26] [DEBUG] Entity Spawning: Entity: [148250] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:14:26] [DEBUG] Entity Spawning: Entity: [148569] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:14:26] [ChocoHax]: [Warn] - [27] Apocalypse [Alexander Azarov]  ~ | AntiNuke 3.0 `Objects` |
+[10:14:26] [DEBUG] [ChocoLog] Warned Player: 27 Apocalypse [Alexander Azarov]
+[10:14:26] [DEBUG] Entity Spawning: Entity: [149076] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:14:26] [DEBUG] Entity Spawning: Entity: [150601] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:14:48] [DEBUG] Entity Spawning: Entity: [134912] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[10:14:50] [DEBUG] Entity Spawning: Entity: [137594] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[10:14:50] [DEBUG] Entity Spawning: Entity: [150603] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[10:14:53] [DEBUG] Entity Spawning: Entity: [154234] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:14:53] [DEBUG] Entity Spawning: Entity: [154434] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:14:53] [DEBUG] Entity Spawning: Entity: [154677] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:14:53] [DEBUG] Entity Spawning: Entity: [155669] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:14:53] [DEBUG] Entity Spawning: Entity: [155999] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:14:53] [ChocoHax]: [Warn] - [28] Amado Mora  ~ | AntiNuke 3.0 `Objects` |
+[10:14:54] [DEBUG] [ChocoLog] Warned Player: 28 Amado Mora
+[10:14:54] [DEBUG] Entity Spawning: Entity: [156204] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:14:54] [DEBUG] Entity Spawning: Entity: [156970] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:15:44] [DEBUG] Entity Spawning: Entity: [167733] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[10:15:52] [DEBUG] Entity Spawning: Entity: [145440] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[10:16:03] [ChocoHax]: [Connect] Diego Rodriguez is joining the server.
+[10:16:03] [DEBUG] Starting checking for Diego Rodriguez
+[10:16:03] [ChocoHax]: [Connect] Diego Rodriguez joined the server.
+[10:16:32] [ChocoHax]: [Connect] Diego Rodriguez is joining the server.
+[10:16:32] [DEBUG] Starting checking for Diego Rodriguez
+[10:16:32] [ChocoHax]: [Connect] Diego Rodriguez joined the server.
+[10:16:49] [ChocoHax Error]: Screenshot Request Failed for Jago Vaanderplaats Screenshot-Basic not found.
+[10:17:14] [DEBUG] Entity Spawning: Entity: [163849] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[10:17:16] [DEBUG] Entity Spawning: Entity: [158802] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[10:17:16] [DEBUG] Entity Spawning: Entity: [162943] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[10:17:19] [DEBUG] Entity Spawning: Entity: [167744] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:17:19] [DEBUG] Entity Spawning: Entity: [171293] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:17:19] [DEBUG] Entity Spawning: Entity: [172050] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:17:19] [DEBUG] Entity Spawning: Entity: [172308] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:17:19] [DEBUG] Entity Spawning: Entity: [172566] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:17:19] [ChocoHax]: [Warn] - [29] Diego Rodriguez  ~ | AntiNuke 3.0 `Objects` |
+[10:17:19] [DEBUG] [ChocoLog] Warned Player: 29 Diego Rodriguez
+[10:17:19] [DEBUG] Entity Spawning: Entity: [173074] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:17:20] [DEBUG] Entity Spawning: Entity: [173327] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:19:01] [ChocoHax]: [Disconnect] Amado Mora disconnected. (Exiting)
+[10:21:28] [ChocoHax]: [Disconnect] Jago Vaanderplaats disconnected. (Disconnected.)
+[10:23:18] [ChocoHax]: [Disconnect] Eric Lapointe disconnected. (Exiting)
+[10:24:46] [ChocoHax]: [Connect] Robert Aaron is joining the server.
+[10:24:46] [DEBUG] Starting checking for Robert Aaron
+[10:24:46] [ChocoHax]: [Connect] Robert Aaron is banned from this server.
+[10:24:47] [DEBUG] [Ban Logger] ok
+[10:25:09] [ChocoHax]: [Connect] Dom Keurt is joining the server.
+[10:25:09] [DEBUG] Starting checking for Dom Keurt
+[10:25:09] [ChocoHax]: [Connect] Dom Keurt joined the server.
+[10:25:57] [DEBUG] Entity Spawning: Entity: [139327] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[10:26:00] [DEBUG] Entity Spawning: Entity: [137084] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[10:26:00] [DEBUG] Entity Spawning: Entity: [138614] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[10:26:03] [DEBUG] Entity Spawning: Entity: [135197] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:26:03] [DEBUG] Entity Spawning: Entity: [135704] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:26:04] [DEBUG] Entity Spawning: Entity: [139895] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:26:04] [DEBUG] Entity Spawning: Entity: [140840] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:26:04] [DEBUG] Entity Spawning: Entity: [141057] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:26:04] [ChocoHax]: [Warn] - [30] Dom Keurt  ~ | AntiNuke 3.0 `Objects` |
+[10:26:04] [DEBUG] [ChocoLog] Warned Player: 30 Dom Keurt
+[10:26:04] [DEBUG] Entity Spawning: Entity: [141370] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:26:04] [DEBUG] Entity Spawning: Entity: [141601] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:26:43] [DEBUG] Entity Spawning: Entity: [146032] Spawned By Player: [yes / 7] MODEL [-16948145] TYPE [vehicle]
+[10:26:46] [ChocoHax]: [Connect] Eric Lapointe is joining the server.
+[10:26:46] [DEBUG] Starting checking for Eric Lapointe
+[10:26:46] [ChocoHax]: [Connect] Eric Lapointe joined the server.
+[10:27:13] [ChocoHax]: [Connect] Alexei Karovic is joining the server.
+[10:27:13] [DEBUG] Starting checking for Alexei Karovic
+[10:27:13] [ChocoHax]: [Connect] Alexei Karovic joined the server.
+[10:27:42] [DEBUG] Entity Spawning: Entity: [134015] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[10:27:44] [DEBUG] Entity Spawning: Entity: [135210] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[10:27:44] [DEBUG] Entity Spawning: Entity: [136826] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[10:27:48] [DEBUG] Entity Spawning: Entity: [143677] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:27:48] [DEBUG] Entity Spawning: Entity: [143927] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:27:48] [DEBUG] Entity Spawning: Entity: [144478] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:27:48] [DEBUG] Entity Spawning: Entity: [144912] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:27:48] [DEBUG] Entity Spawning: Entity: [145270] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:27:48] [ChocoHax]: [Warn] - [31] Eric Lapointe  ~ | AntiNuke 3.0 `Objects` |
+[10:27:48] [DEBUG] [ChocoLog] Warned Player: 31 Eric Lapointe
+[10:27:48] [DEBUG] Entity Spawning: Entity: [145452] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:27:48] [DEBUG] Entity Spawning: Entity: [145722] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:29:10] [DEBUG] Entity Spawning: Entity: [142620] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[10:29:18] [DEBUG] Entity Spawning: Entity: [137801] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[10:29:18] [DEBUG] Entity Spawning: Entity: [140663] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[10:29:24] [DEBUG] Entity Spawning: Entity: [143939] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:29:24] [DEBUG] Entity Spawning: Entity: [146200] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:29:24] [DEBUG] Entity Spawning: Entity: [146444] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:29:24] [DEBUG] Entity Spawning: Entity: [146749] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:29:24] [DEBUG] Entity Spawning: Entity: [147005] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:29:24] [ChocoHax]: [Warn] - [32] Alexei Karovic  ~ | AntiNuke 3.0 `Objects` |
+[10:29:24] [DEBUG] [ChocoLog] Warned Player: 32 Alexei Karovic
+[10:29:24] [DEBUG] Entity Spawning: Entity: [147260] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:29:24] [DEBUG] Entity Spawning: Entity: [147457] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:29:34] [DEBUG] Entity Spawning: Entity: [143690] Spawned By Player: [yes / 7] MODEL [1682114128] TYPE [vehicle]
+[10:31:41] [ChocoHax]: [Disconnect] Diego Rodriguez disconnected. (Exiting)
+[10:34:13] [ChocoHax]: [Disconnect] Eric Lapointe disconnected. (Exiting)
+[10:37:17] [ChocoHax]: [Disconnect] Apocalypse [Alexander Azarov] disconnected. (Exiting)
+[10:39:27] [ChocoHax]: [Connect] Prozakk33 - Carter WILLIAMS is joining the server.
+[10:39:27] [DEBUG] Starting checking for Prozakk33 - Carter WILLIAMS
+[10:39:27] [ChocoHax]: [Connect] Prozakk33 - Carter WILLIAMS joined the server.
+[10:39:51] [ChocoHax]: [Disconnect] 123 disconnected. (Exiting)
+[10:40:43] [DEBUG] Entity Spawning: Entity: [132690] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[10:40:46] [DEBUG] Entity Spawning: Entity: [131185] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[10:40:46] [DEBUG] Entity Spawning: Entity: [131632] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[10:40:51] [DEBUG] Entity Spawning: Entity: [133417] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:40:51] [DEBUG] Entity Spawning: Entity: [133650] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:40:51] [DEBUG] Entity Spawning: Entity: [133930] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:40:51] [DEBUG] Entity Spawning: Entity: [134236] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:40:51] [DEBUG] Entity Spawning: Entity: [134679] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:40:51] [ChocoHax]: [Warn] - [33] Prozakk33 - Carter WILLIAMS  ~ | AntiNuke 3.0 `Objects` |
+[10:40:51] [DEBUG] [ChocoLog] Warned Player: 33 Prozakk33 - Carter WILLIAMS
+[10:40:51] [DEBUG] Entity Spawning: Entity: [135037] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:40:51] [DEBUG] Entity Spawning: Entity: [135230] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:41:00] [ChocoHax]: [Connect] 123 is joining the server.
+[10:41:00] [ChocoHax]: [Connect] 123 is admin and bypassed the login check.
+[10:41:51] [DEBUG] Entity Spawning: Entity: [134244] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[10:41:55] [DEBUG] Entity Spawning: Entity: [135232] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[10:41:55] [DEBUG] Entity Spawning: Entity: [135784] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[10:42:00] [DEBUG] Entity Spawning: Entity: [136222] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:42:00] [DEBUG] Entity Spawning: Entity: [136476] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:42:00] [DEBUG] Entity Spawning: Entity: [136723] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:42:00] [DEBUG] Entity Spawning: Entity: [137323] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:42:00] [DEBUG] Entity Spawning: Entity: [138032] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:42:00] [DEBUG] Entity Spawning: Entity: [138861] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:42:00] [DEBUG] Entity Spawning: Entity: [139104] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:43:46] [DEBUG] [Loading] Player Alexei Karovic loading the anticheat
+[10:43:54] [DEBUG] Entity Spawning: Entity: [133947] Spawned By Player: [yes / 7] MODEL [55628203] TYPE [vehicle]
+[10:43:56] [DEBUG] [Loading] Sending Heartbeat Check
+[10:43:56] [DEBUG] [Loading] Player Alexei Karovic loaded the anticheat
+[10:44:33] [ChocoHax]: [Disconnect] 123 disconnected. (Exiting)
+[10:45:11] [DEBUG] Entity Spawning: Entity: [135803] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[10:48:38] [ChocoHax]: [Connect] Pépito Avila is joining the server.
+[10:48:38] [DEBUG] Starting checking for Pépito Avila
+[10:48:38] [ChocoHax]: [Connect] Pépito Avila joined the server.
+[10:49:04] [ChocoHax]: [Connect] Diego Rodriguez is joining the server.
+[10:49:04] [DEBUG] Starting checking for Diego Rodriguez
+[10:49:04] [ChocoHax]: [Connect] Diego Rodriguez joined the server.
+[10:49:42] [DEBUG] Entity Spawning: Entity: [132175] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[10:49:43] [DEBUG] Entity Spawning: Entity: [135433] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[10:49:43] [DEBUG] Entity Spawning: Entity: [135716] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[10:49:47] [DEBUG] Entity Spawning: Entity: [140376] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:49:47] [DEBUG] Entity Spawning: Entity: [141577] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:49:47] [DEBUG] Entity Spawning: Entity: [141941] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:49:47] [DEBUG] Entity Spawning: Entity: [142410] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:49:47] [DEBUG] Entity Spawning: Entity: [143207] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:49:47] [ChocoHax]: [Warn] - [36] Diego Rodriguez  ~ | AntiNuke 3.0 `Objects` |
+[10:49:47] [DEBUG] [ChocoLog] Warned Player: 36 Diego Rodriguez
+[10:49:47] [DEBUG] Entity Spawning: Entity: [143462] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:49:47] [DEBUG] Entity Spawning: Entity: [143722] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:49:55] [ChocoHax]: [Connect] Pépito Avila is joining the server.
+[10:49:55] [DEBUG] Starting checking for Pépito Avila
+[10:49:55] [ChocoHax]: [Connect] Pépito Avila joined the server.
+[10:51:02] [DEBUG] Entity Spawning: Entity: [144959] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[10:51:05] [DEBUG] Entity Spawning: Entity: [133211] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[10:51:05] [DEBUG] Entity Spawning: Entity: [136807] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[10:51:10] [DEBUG] Entity Spawning: Entity: [163600] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:51:10] [DEBUG] Entity Spawning: Entity: [164988] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:51:10] [DEBUG] Entity Spawning: Entity: [166235] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:51:10] [DEBUG] Entity Spawning: Entity: [166753] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:51:10] [DEBUG] Entity Spawning: Entity: [166992] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:51:10] [ChocoHax]: [Warn] - [37] Pépito Avila  ~ | AntiNuke 3.0 `Objects` |
+[10:51:10] [DEBUG] [ChocoLog] Warned Player: 37 Pépito Avila
+[10:51:10] [DEBUG] Entity Spawning: Entity: [167749] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:51:10] [DEBUG] Entity Spawning: Entity: [168254] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[10:52:37] [DEBUG] Entity Spawning: Entity: [134170] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[10:56:40] [DEBUG] Entity Spawning: Entity: [143125] Spawned By Player: [yes / 7] MODEL [-16948145] TYPE [vehicle]
+[10:57:40] [DEBUG] Entity Spawning: Entity: [145501] Spawned By Player: [yes / 7] MODEL [-344943009] TYPE [vehicle]
+[11:02:59] [DEBUG] Entity Spawning: Entity: [137307] Spawned By Player: [yes / 7] MODEL [640818791] TYPE [vehicle]
+[11:03:09] [DEBUG] Entity Spawning: Entity: [138862] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[11:05:05] [ChocoHax]: [Connect] Eric Lapointe is joining the server.
+[11:05:05] [DEBUG] Starting checking for Eric Lapointe
+[11:05:05] [ChocoHax]: [Connect] Eric Lapointe joined the server.
+[11:05:48] [DEBUG] Entity Spawning: Entity: [134522] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[11:05:50] [DEBUG] Entity Spawning: Entity: [131892] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[11:05:50] [DEBUG] Entity Spawning: Entity: [134744] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[11:05:54] [DEBUG] Entity Spawning: Entity: [140881] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:05:54] [DEBUG] Entity Spawning: Entity: [141115] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:05:54] [DEBUG] Entity Spawning: Entity: [141431] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:05:54] [DEBUG] Entity Spawning: Entity: [141644] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:05:54] [DEBUG] Entity Spawning: Entity: [141880] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:05:54] [ChocoHax]: [Warn] - [38] Eric Lapointe  ~ | AntiNuke 3.0 `Objects` |
+[11:05:54] [DEBUG] [ChocoLog] Warned Player: 38 Eric Lapointe
+[11:05:54] [DEBUG] Entity Spawning: Entity: [142159] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:05:54] [DEBUG] Entity Spawning: Entity: [142341] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:06:30] [DEBUG] Entity Spawning: Entity: [139887] Spawned By Player: [yes / 7] MODEL [1682114128] TYPE [vehicle]
+[11:06:32] [ChocoHax]: [Connect] N0BZ | Pablo Funtes is joining the server.
+[11:06:32] [DEBUG] Starting checking for N0BZ | Pablo Funtes
+[11:06:32] [ChocoHax]: [Connect] N0BZ | Pablo Funtes joined the server.
+[11:07:56] [DEBUG] Entity Spawning: Entity: [143973] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[11:08:00] [DEBUG] Entity Spawning: Entity: [134265] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[11:08:00] [DEBUG] Entity Spawning: Entity: [140134] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[11:08:05] [DEBUG] Entity Spawning: Entity: [137309] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:08:05] [DEBUG] Entity Spawning: Entity: [159810] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:08:05] [DEBUG] Entity Spawning: Entity: [160066] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:08:05] [DEBUG] Entity Spawning: Entity: [160348] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:08:05] [DEBUG] Entity Spawning: Entity: [160533] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:08:05] [ChocoHax]: [Warn] - [39] N0BZ | Pablo Funtes  ~ | AntiNuke 3.0 `Objects` |
+[11:08:05] [DEBUG] [ChocoLog] Warned Player: 39 N0BZ | Pablo Funtes
+[11:08:05] [DEBUG] Entity Spawning: Entity: [160798] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:08:05] [DEBUG] Entity Spawning: Entity: [161053] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:08:59] [DEBUG] Entity Spawning: Entity: [132890] Spawned By Player: [yes / 7] MODEL [-16948145] TYPE [vehicle]
+[11:09:03] [DEBUG] Entity Spawning: Entity: [149566] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[11:10:03] [ChocoHax]: [Disconnect] Diego Rodriguez disconnected. (Exiting)
+[11:12:09] [ChocoHax]: [Disconnect] N0BZ | Pablo Funtes disconnected. (Exiting)
+[11:14:35] [ChocoHax]: [Connect] Amado Mora is joining the server.
+[11:14:35] [DEBUG] Starting checking for Amado Mora
+[11:14:35] [ChocoHax]: [Connect] Amado Mora joined the server.
+[11:15:02] [ChocoHax]: [Connect] Frank Dux is joining the server.
+[11:15:02] [DEBUG] Starting checking for Frank Dux
+[11:15:02] [ChocoHax]: [Connect] Frank Dux joined the server.
+[11:15:18] [DEBUG] Entity Spawning: Entity: [139111] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[11:15:20] [DEBUG] Entity Spawning: Entity: [135016] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[11:15:20] [DEBUG] Entity Spawning: Entity: [146989] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[11:15:23] [DEBUG] Entity Spawning: Entity: [144193] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:15:23] [DEBUG] Entity Spawning: Entity: [149863] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:15:23] [DEBUG] Entity Spawning: Entity: [150362] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:15:23] [DEBUG] Entity Spawning: Entity: [150605] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:15:23] [DEBUG] Entity Spawning: Entity: [151063] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:15:23] [ChocoHax]: [Warn] - [40] Amado Mora  ~ | AntiNuke 3.0 `Objects` |
+[11:15:23] [DEBUG] [ChocoLog] Warned Player: 40 Amado Mora
+[11:15:23] [DEBUG] Entity Spawning: Entity: [151365] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:15:23] [DEBUG] Entity Spawning: Entity: [151841] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:15:46] [ChocoHax]: [Disconnect] Amado Mora disconnected. (Exiting)
+[11:16:21] [DEBUG] Entity Spawning: Entity: [135765] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[11:16:25] [DEBUG] Entity Spawning: Entity: [153867] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[11:16:25] [DEBUG] Entity Spawning: Entity: [159608] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[11:16:29] [DEBUG] Entity Spawning: Entity: [149873] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:16:29] [DEBUG] Entity Spawning: Entity: [155229] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:16:29] [DEBUG] Entity Spawning: Entity: [156533] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:16:29] [DEBUG] Entity Spawning: Entity: [156762] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:16:29] [DEBUG] Entity Spawning: Entity: [157043] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:16:29] [ChocoHax]: [Warn] - [41] Frank Dux  ~ | AntiNuke 3.0 `Objects` |
+[11:16:29] [DEBUG] [ChocoLog] Warned Player: 41 Frank Dux
+[11:16:29] [DEBUG] Entity Spawning: Entity: [157465] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:16:29] [DEBUG] Entity Spawning: Entity: [158057] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:17:08] [ChocoHax]: [Connect] Oracle Lottie is joining the server.
+[11:17:08] [DEBUG] Starting checking for Oracle Lottie
+[11:17:08] [ChocoHax]: [Connect] Oracle Lottie joined the server.
+[11:18:22] [ChocoHax]: [Connect] Oracle Lottie is joining the server.
+[11:18:22] [DEBUG] Starting checking for Oracle Lottie
+[11:18:22] [ChocoHax]: [Connect] Oracle Lottie joined the server.
+[11:20:02] [DEBUG] Entity Spawning: Entity: [138797] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[11:20:50] [DEBUG] Explosion: 
+[11:22:00] [DEBUG] Entity Spawning: Entity: [139564] Spawned By Player: [yes / 7] MODEL [-16948145] TYPE [vehicle]
+[11:25:40] [ChocoHax]: [Connect] Oracle Lottie is joining the server.
+[11:25:40] [DEBUG] Starting checking for Oracle Lottie
+[11:25:40] [ChocoHax]: [Connect] Oracle Lottie joined the server.
+[11:26:45] [ChocoHax]: [Connect] Mike Anderson is joining the server.
+[11:26:45] [DEBUG] Starting checking for Mike Anderson
+[11:26:46] [ChocoHax]: [Connect] Mike Anderson joined the server.
+[11:27:42] [DEBUG] Entity Spawning: Entity: [148039] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[11:27:42] [ChocoHax]: [Disconnect] Frank Dux disconnected. (Exiting)
+[11:27:46] [DEBUG] Entity Spawning: Entity: [156696] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[11:27:46] [DEBUG] Entity Spawning: Entity: [157203] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[11:27:50] [DEBUG] Entity Spawning: Entity: [162357] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:27:50] [DEBUG] Entity Spawning: Entity: [162634] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:27:50] [DEBUG] Entity Spawning: Entity: [163146] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:27:50] [DEBUG] Entity Spawning: Entity: [163396] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:27:50] [DEBUG] Entity Spawning: Entity: [163646] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:27:50] [ChocoHax]: [Warn] - [42] Mike Anderson  ~ | AntiNuke 3.0 `Objects` |
+[11:27:50] [DEBUG] [ChocoLog] Warned Player: 42 Mike Anderson
+[11:27:50] [DEBUG] Entity Spawning: Entity: [163890] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:27:50] [DEBUG] Entity Spawning: Entity: [164151] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:28:43] [ChocoHax Error]: Screenshot Request Failed for Alexei Karovic Screenshot-Basic not found.
+[11:28:52] [ChocoHax Error]: Screenshot Request Failed for Alexei Karovic Screenshot-Basic not found.
+[11:28:54] [DEBUG] Entity Spawning: Entity: [145704] Spawned By Player: [yes / 0] MODEL [-775118285] TYPE [object]
+[11:29:35] [ChocoHax]: [Connect] Duke "Ditto" Hampton is joining the server.
+[11:29:36] [DEBUG] Starting checking for Duke "Ditto" Hampton
+[11:29:36] [ChocoHax]: [Connect] Duke "Ditto" Hampton joined the server.
+[11:29:41] [ChocoHax]: [Disconnect] Mike Anderson disconnected. (Disconnected.)
+[11:30:25] [ChocoHax Error]: Screenshot Request Failed for Alexei Karovic Screenshot-Basic not found.
+[11:31:03] [DEBUG] Entity Spawning: Entity: [138869] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[11:31:06] [DEBUG] Entity Spawning: Entity: [147214] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[11:31:06] [DEBUG] Entity Spawning: Entity: [148052] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[11:31:11] [DEBUG] Entity Spawning: Entity: [154121] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:31:11] [DEBUG] Entity Spawning: Entity: [156459] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:31:11] [DEBUG] Entity Spawning: Entity: [156705] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:31:11] [DEBUG] Entity Spawning: Entity: [156969] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:31:11] [DEBUG] Entity Spawning: Entity: [157812] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:31:11] [ChocoHax]: [Warn] - [43] Duke "Ditto" Hampton  ~ | AntiNuke 3.0 `Objects` |
+[11:31:11] [DEBUG] [ChocoLog] Warned Player: 43 Duke "Ditto" Hampton
+[11:31:11] [DEBUG] Entity Spawning: Entity: [159274] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:31:11] [DEBUG] Entity Spawning: Entity: [160104] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:32:43] [DEBUG] Entity Spawning: Entity: [156465] Spawned By Player: [yes / 0] MODEL [-1296547421] TYPE [object]
+[11:32:45] [DEBUG] Entity Spawning: Entity: [160280] Spawned By Player: [yes / 0] MODEL [-781595832] TYPE [object]
+[11:32:46] [DEBUG] Entity Spawning: Entity: [140389] Spawned By Player: [yes / 0] MODEL [-1354005816] TYPE [object]
+[11:32:49] [DEBUG] Entity Spawning: Entity: [157820] Spawned By Player: [yes / 0] MODEL [1020618269] TYPE [object]
+[11:32:59] [DEBUG] Entity Spawning: Entity: [156717] Spawned By Player: [yes / 0] MODEL [-447760697] TYPE [object]
+[11:33:20] [DEBUG] Entity Spawning: Entity: [156235] Spawned By Player: [yes / 0] MODEL [-517243780] TYPE [object]
+[11:33:20] [DEBUG] Entity Spawning: Entity: [151161] Spawned By Player: [yes / 0] MODEL [880595258] TYPE [object]
+[11:33:21] [DEBUG] Entity Spawning: Entity: [151162] Spawned By Player: [yes / 0] MODEL [-2054442544] TYPE [object]
+[11:33:22] [DEBUG] Entity Spawning: Entity: [145755] Spawned By Player: [yes / 0] MODEL [680380202] TYPE [object]
+[11:33:22] [DEBUG] Entity Spawning: Entity: [156725] Spawned By Player: [yes / 0] MODEL [-678752633] TYPE [object]
+[11:33:23] [DEBUG] Entity Spawning: Entity: [131393] Spawned By Player: [yes / 0] MODEL [-678752633] TYPE [object]
+[11:33:23] [DEBUG] Entity Spawning: Entity: [131394] Spawned By Player: [yes / 0] MODEL [-969349845] TYPE [object]
+[11:33:26] [DEBUG] Entity Spawning: Entity: [133724] Spawned By Player: [yes / 0] MODEL [-598185919] TYPE [object]
+[11:33:26] [DEBUG] Entity Spawning: Entity: [165242] Spawned By Player: [yes / 0] MODEL [-1016640704] TYPE [object]
+[11:33:27] [DEBUG] Entity Spawning: Entity: [146970] Spawned By Player: [yes / 0] MODEL [-447760697] TYPE [object]
+[11:33:29] [DEBUG] Entity Spawning: Entity: [142405] Spawned By Player: [yes / 0] MODEL [-708789241] TYPE [object]
+[11:33:30] [DEBUG] Entity Spawning: Entity: [142406] Spawned By Player: [yes / 0] MODEL [-708789241] TYPE [object]
+[11:33:31] [DEBUG] Entity Spawning: Entity: [142407] Spawned By Player: [yes / 0] MODEL [-1528307545] TYPE [object]
+[11:33:32] [DEBUG] Entity Spawning: Entity: [154133] Spawned By Player: [yes / 0] MODEL [61087258] TYPE [object]
+[11:33:34] [DEBUG] Entity Spawning: Entity: [145162] Spawned By Player: [yes / 0] MODEL [-1170050911] TYPE [object]
+[11:33:35] [DEBUG] Entity Spawning: Entity: [142409] Spawned By Player: [yes / 0] MODEL [-645296272] TYPE [object]
+[11:33:36] [DEBUG] Entity Spawning: Entity: [142410] Spawned By Player: [yes / 0] MODEL [-1623189257] TYPE [object]
+[11:33:37] [DEBUG] Entity Spawning: Entity: [143429] Spawned By Player: [yes / 0] MODEL [29402038] TYPE [object]
+[11:33:37] [DEBUG] Entity Spawning: Entity: [156728] Spawned By Player: [yes / 0] MODEL [463086472] TYPE [object]
+[11:33:38] [DEBUG] Entity Spawning: Entity: [164399] Spawned By Player: [yes / 0] MODEL [1407197773] TYPE [object]
+[11:33:40] [DEBUG] Entity Spawning: Entity: [142189] Spawned By Player: [yes / 0] MODEL [76092178] TYPE [object]
+[11:33:41] [DEBUG] Entity Spawning: Entity: [151348] Spawned By Player: [yes / 0] MODEL [-692093509] TYPE [object]
+[11:33:42] [DEBUG] Entity Spawning: Entity: [138049] Spawned By Player: [yes / 0] MODEL [1020618269] TYPE [object]
+[11:33:43] [DEBUG] Entity Spawning: Entity: [164163] Spawned By Player: [yes / 0] MODEL [-994740387] TYPE [object]
+[11:33:44] [DEBUG] Entity Spawning: Entity: [156730] Spawned By Player: [yes / 0] MODEL [-1249748547] TYPE [object]
+[11:33:45] [DEBUG] Entity Spawning: Entity: [167786] Spawned By Player: [yes / 0] MODEL [-1585232418] TYPE [object]
+[11:33:46] [DEBUG] Entity Spawning: Entity: [169792] Spawned By Player: [yes / 0] MODEL [-1585232418] TYPE [object]
+[11:33:47] [DEBUG] Entity Spawning: Entity: [166148] Spawned By Player: [yes / 0] MODEL [-1354005816] TYPE [object]
+[11:33:48] [DEBUG] Entity Spawning: Entity: [140393] Spawned By Player: [yes / 0] MODEL [-781595832] TYPE [object]
+[11:33:49] [DEBUG] Entity Spawning: Entity: [160288] Spawned By Player: [yes / 0] MODEL [-1296547421] TYPE [object]
+[11:33:51] [DEBUG] Entity Spawning: Entity: [146975] Spawned By Player: [yes / 0] MODEL [1203231469] TYPE [object]
+[11:33:51] [DEBUG] Entity Spawning: Entity: [160120] Spawned By Player: [yes / 0] MODEL [-1109340972] TYPE [object]
+[11:33:53] [DEBUG] Entity Spawning: Entity: [134239] Spawned By Player: [yes / 0] MODEL [1874679314] TYPE [object]
+[11:33:54] [DEBUG] Entity Spawning: Entity: [142871] Spawned By Player: [yes / 0] MODEL [1874679314] TYPE [object]
+[11:33:57] [DEBUG] Entity Spawning: Entity: [149029] Spawned By Player: [yes / 0] MODEL [944959446] TYPE [object]
+[11:33:59] [DEBUG] Entity Spawning: Entity: [146978] Spawned By Player: [yes / 0] MODEL [-1676901836] TYPE [object]
+[11:33:59] [DEBUG] Entity Spawning: Entity: [145445] Spawned By Player: [yes / 0] MODEL [880595258] TYPE [object]
+[11:36:38] [ChocoHax]: [Disconnect] Eric Lapointe disconnected. (Disconnected.)
+[11:38:03] [DEBUG] Entity Spawning: Entity: [132905] Spawned By Player: [yes / 0] MODEL [-1296547421] TYPE [object]
+[11:38:04] [DEBUG] Entity Spawning: Entity: [131911] Spawned By Player: [yes / 0] MODEL [-781595832] TYPE [object]
+[11:38:05] [DEBUG] Entity Spawning: Entity: [135489] Spawned By Player: [yes / 0] MODEL [-1354005816] TYPE [object]
+[11:38:05] [DEBUG] Entity Spawning: Entity: [131912] Spawned By Player: [yes / 0] MODEL [-1585232418] TYPE [object]
+[11:38:05] [DEBUG] Entity Spawning: Entity: [137551] Spawned By Player: [yes / 0] MODEL [-1585232418] TYPE [object]
+[11:38:06] [DEBUG] Entity Spawning: Entity: [131913] Spawned By Player: [yes / 0] MODEL [-1249748547] TYPE [object]
+[11:38:06] [DEBUG] Entity Spawning: Entity: [137552] Spawned By Player: [yes / 0] MODEL [-994740387] TYPE [object]
+[11:38:07] [DEBUG] Entity Spawning: Entity: [138081] Spawned By Player: [yes / 0] MODEL [1020618269] TYPE [object]
+[11:38:07] [DEBUG] Entity Spawning: Entity: [132907] Spawned By Player: [yes / 0] MODEL [-692093509] TYPE [object]
+[11:38:08] [DEBUG] Entity Spawning: Entity: [140142] Spawned By Player: [yes / 0] MODEL [76092178] TYPE [object]
+[11:38:09] [DEBUG] Entity Spawning: Entity: [141943] Spawned By Player: [yes / 0] MODEL [1407197773] TYPE [object]
+[11:38:09] [DEBUG] Entity Spawning: Entity: [135257] Spawned By Player: [yes / 0] MODEL [1407197773] TYPE [object]
+[11:38:10] [DEBUG] Entity Spawning: Entity: [134407] Spawned By Player: [yes / 0] MODEL [29402038] TYPE [object]
+[11:38:10] [DEBUG] Entity Spawning: Entity: [142891] Spawned By Player: [yes / 0] MODEL [463086472] TYPE [object]
+[11:38:10] [DEBUG] Entity Spawning: Entity: [140803] Spawned By Player: [yes / 0] MODEL [-1623189257] TYPE [object]
+[11:38:11] [DEBUG] Entity Spawning: Entity: [131416] Spawned By Player: [yes / 0] MODEL [-645296272] TYPE [object]
+[11:38:11] [DEBUG] Entity Spawning: Entity: [144388] Spawned By Player: [yes / 0] MODEL [-1170050911] TYPE [object]
+[11:38:12] [DEBUG] Entity Spawning: Entity: [147803] Spawned By Player: [yes / 0] MODEL [-1528307545] TYPE [object]
+[11:38:12] [DEBUG] Entity Spawning: Entity: [144389] Spawned By Player: [yes / 0] MODEL [-708789241] TYPE [object]
+[11:38:12] [DEBUG] Entity Spawning: Entity: [140144] Spawned By Player: [yes / 0] MODEL [-708789241] TYPE [object]
+[11:38:13] [DEBUG] Entity Spawning: Entity: [144390] Spawned By Player: [yes / 0] MODEL [-447760697] TYPE [object]
+[11:38:13] [DEBUG] Entity Spawning: Entity: [140145] Spawned By Player: [yes / 0] MODEL [1847598393] TYPE [object]
+[11:38:13] [DEBUG] Entity Spawning: Entity: [147804] Spawned By Player: [yes / 0] MODEL [-1016640704] TYPE [object]
+[11:38:13] [DEBUG] Entity Spawning: Entity: [136283] Spawned By Player: [yes / 0] MODEL [-598185919] TYPE [object]
+[11:38:14] [DEBUG] Entity Spawning: Entity: [148234] Spawned By Player: [yes / 0] MODEL [-969349845] TYPE [object]
+[11:38:14] [DEBUG] Entity Spawning: Entity: [136284] Spawned By Player: [yes / 0] MODEL [-678752633] TYPE [object]
+[11:38:14] [DEBUG] Entity Spawning: Entity: [144228] Spawned By Player: [yes / 0] MODEL [-678752633] TYPE [object]
+[11:39:05] [DEBUG] Entity Spawning: Entity: [150599] Spawned By Player: [yes / 7] MODEL [-16948145] TYPE [vehicle]
+[11:39:30] [DEBUG] Entity Spawning: Entity: [137561] Spawned By Player: [yes / 0] MODEL [-2054442544] TYPE [object]
+[11:39:39] [ChocoHax]: [Disconnect] Pépito Avila disconnected. (Exiting)
+[11:39:40] [DEBUG] Entity Spawning: Entity: [131924] Spawned By Player: [yes / 0] MODEL [-775118285] TYPE [object]
+[11:39:41] [ChocoHax]: [Connect] Mike Anderson is joining the server.
+[11:39:41] [DEBUG] Starting checking for Mike Anderson
+[11:39:41] [ChocoHax]: [Connect] Mike Anderson joined the server.
+[11:40:03] [ChocoHax]: [Connect] Zoey Collins | Lyxial is joining the server.
+[11:40:04] [DEBUG] Starting checking for Zoey Collins | Lyxial
+[11:40:04] [ChocoHax]: [Connect] Zoey Collins | Lyxial joined the server.
+[11:40:09] [ChocoHax]: [Disconnect] Mike Anderson disconnected. (Disconnected.)
+[11:40:10] [DEBUG] Entity Spawning: Entity: [136812] Spawned By Player: [yes / 0] MODEL [-775118285] TYPE [object]
+[11:40:15] [DEBUG] Entity Spawning: Entity: [140831] Spawned By Player: [yes / 0] MODEL [-2054442544] TYPE [object]
+[11:41:03] [DEBUG] Entity Spawning: Entity: [143992] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[11:41:07] [DEBUG] Entity Spawning: Entity: [135507] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[11:41:07] [DEBUG] Entity Spawning: Entity: [135740] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[11:41:11] [DEBUG] Entity Spawning: Entity: [146496] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:41:11] [DEBUG] Entity Spawning: Entity: [146796] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:41:11] [DEBUG] Entity Spawning: Entity: [147027] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:41:11] [DEBUG] Entity Spawning: Entity: [147532] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:41:11] [DEBUG] Entity Spawning: Entity: [148248] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:41:11] [DEBUG] Entity Spawning: Entity: [148593] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:41:11] [DEBUG] Entity Spawning: Entity: [148766] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:42:09] [ChocoHax]: [Disconnect] Zoey Collins | Lyxial disconnected. (Disconnected.)
+[11:42:15] [ChocoHax]: [Connect] Mike Anderson is joining the server.
+[11:42:15] [DEBUG] Starting checking for Mike Anderson
+[11:42:15] [ChocoHax]: [Connect] Mike Anderson joined the server.
+[11:42:26] [DEBUG] Entity Spawning: Entity: [144131] Spawned By Player: [yes / 0] MODEL [-1038739674] TYPE [object]
+[11:42:43] [ChocoHax]: [Connect] Zoey Collins | Lyxial is joining the server.
+[11:42:43] [ChocoHax]: [Connect] Zoey Collins | Lyxial is admin and bypassed the login check.
+[11:43:06] [DEBUG] Entity Spawning: Entity: [137284] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[11:43:10] [DEBUG] Entity Spawning: Entity: [132143] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[11:43:10] [DEBUG] Entity Spawning: Entity: [135182] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[11:43:14] [DEBUG] Entity Spawning: Entity: [140341] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:43:14] [DEBUG] Entity Spawning: Entity: [140855] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:43:14] [DEBUG] Entity Spawning: Entity: [141411] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:43:14] [DEBUG] Entity Spawning: Entity: [141585] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:43:14] [DEBUG] Entity Spawning: Entity: [142134] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:43:14] [ChocoHax]: [Warn] - [46] Mike Anderson  ~ | AntiNuke 3.0 `Objects` |
+[11:43:14] [DEBUG] [ChocoLog] Warned Player: 46 Mike Anderson
+[11:43:14] [DEBUG] Entity Spawning: Entity: [142457] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:43:14] [DEBUG] Entity Spawning: Entity: [143374] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:43:16] [DEBUG] Entity Spawning: Entity: [137590] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[11:43:20] [DEBUG] Entity Spawning: Entity: [146803] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[11:43:20] [DEBUG] Entity Spawning: Entity: [147036] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[11:43:25] [DEBUG] Entity Spawning: Entity: [132950] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:43:25] [DEBUG] Entity Spawning: Entity: [140344] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:43:25] [DEBUG] Entity Spawning: Entity: [147542] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:43:25] [DEBUG] Entity Spawning: Entity: [147823] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:43:25] [DEBUG] Entity Spawning: Entity: [148255] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:43:25] [DEBUG] Entity Spawning: Entity: [148599] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:43:25] [DEBUG] Entity Spawning: Entity: [148774] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:43:39] [ChocoHax]: [Disconnect] Duke "Ditto" Hampton disconnected. (Exiting)
+[11:43:44] [ChocoHax]: [Disconnect] Zoey Collins | Lyxial disconnected. (Disconnected.)
+[11:43:56] [ChocoHax Error]: Screenshot Request Failed for Alexei Karovic Screenshot-Basic not found.
+[11:44:24] [ChocoHax]: [Connect] Zoey Collins | Lyxial is joining the server.
+[11:44:24] [ChocoHax]: [Connect] Zoey Collins | Lyxial is admin and bypassed the login check.
+[11:44:56] [DEBUG] Entity Spawning: Entity: [136208] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[11:45:00] [DEBUG] Entity Spawning: Entity: [139024] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[11:45:00] [DEBUG] Entity Spawning: Entity: [140049] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[11:45:04] [DEBUG] Entity Spawning: Entity: [143874] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:45:04] [DEBUG] Entity Spawning: Entity: [144138] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:45:04] [DEBUG] Entity Spawning: Entity: [144418] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:45:04] [DEBUG] Entity Spawning: Entity: [144641] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:45:04] [DEBUG] Entity Spawning: Entity: [144978] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:47:22] [ChocoHax Error]: Screenshot Request Failed for Alexei Karovic Screenshot-Basic not found.
+[11:48:23] [ChocoHax]: [Connect] Zoey Collins | Lyxial is joining the server.
+[11:48:23] [ChocoHax]: [Connect] Zoey Collins | Lyxial is admin and bypassed the login check.
+[11:48:56] [DEBUG] Entity Spawning: Entity: [143397] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[11:49:00] [DEBUG] Entity Spawning: Entity: [134457] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[11:49:00] [DEBUG] Entity Spawning: Entity: [135787] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[11:49:05] [DEBUG] Entity Spawning: Entity: [134995] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:49:05] [DEBUG] Entity Spawning: Entity: [144153] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:49:05] [DEBUG] Entity Spawning: Entity: [146255] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:49:05] [DEBUG] Entity Spawning: Entity: [146508] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:49:05] [DEBUG] Entity Spawning: Entity: [146806] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:49:05] [DEBUG] Entity Spawning: Entity: [147040] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:49:05] [DEBUG] Entity Spawning: Entity: [147216] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:49:05] [DEBUG] Entity Spawning: Entity: [147546] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:49:05] [DEBUG] Entity Spawning: Entity: [147825] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:49:05] [DEBUG] Entity Spawning: Entity: [148053] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:49:05] [DEBUG] Entity Spawning: Entity: [148256] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:49:28] [ChocoHax]: [Disconnect] Zoey Collins | Lyxial disconnected. (Exiting)
+[11:50:20] [ChocoHax]: [Disconnect] Mike Anderson disconnected. (Disconnected.)
+[11:55:38] [ChocoHax Error]: Screenshot Request Failed for Alexei Karovic Screenshot-Basic not found.
+[11:58:42] [ChocoHax]: [Connect] Leandro Gucci is joining the server.
+[11:58:42] [DEBUG] Starting checking for Leandro Gucci
+[11:58:42] [ChocoHax]: [Connect] Leandro Gucci joined the server.
+[11:59:08] [ChocoHax]: [Disconnect] Prozakk33 - Carter WILLIAMS disconnected. (Exiting)
+[11:59:19] [ChocoHax]: [Connect] Diego Rodriguez is joining the server.
+[11:59:19] [DEBUG] Starting checking for Diego Rodriguez
+[11:59:19] [ChocoHax]: [Connect] Diego Rodriguez joined the server.
+[11:59:49] [DEBUG] Entity Spawning: Entity: [136810] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[11:59:51] [DEBUG] Entity Spawning: Entity: [141350] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[11:59:51] [DEBUG] Entity Spawning: Entity: [141651] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[11:59:55] [DEBUG] Entity Spawning: Entity: [134756] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:59:55] [DEBUG] Entity Spawning: Entity: [142960] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:59:55] [DEBUG] Entity Spawning: Entity: [143126] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:59:55] [DEBUG] Entity Spawning: Entity: [143423] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:59:55] [DEBUG] Entity Spawning: Entity: [143699] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:59:55] [ChocoHax]: [Warn] - [50] Leandro Gucci  ~ | AntiNuke 3.0 `Objects` |
+[11:59:55] [DEBUG] [ChocoLog] Warned Player: 50 Leandro Gucci
+[11:59:55] [DEBUG] Entity Spawning: Entity: [144186] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[11:59:55] [DEBUG] Entity Spawning: Entity: [144450] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[12:00:02] [DEBUG] Entity Spawning: Entity: [131934] Spawned By Player: [yes / 0] MODEL [225514697] TYPE [ped]
+[12:00:04] [DEBUG] Entity Spawning: Entity: [141896] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[12:00:04] [DEBUG] Entity Spawning: Entity: [142391] Spawned By Player: [yes / 0] MODEL [1760825203] TYPE [object]
+[12:00:08] [DEBUG] Entity Spawning: Entity: [140913] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[12:00:08] [DEBUG] Entity Spawning: Entity: [147562] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[12:00:08] [DEBUG] Entity Spawning: Entity: [148812] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[12:00:08] [DEBUG] Entity Spawning: Entity: [149074] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[12:00:08] [DEBUG] Entity Spawning: Entity: [149281] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[12:00:08] [ChocoHax]: [Warn] - [51] Diego Rodriguez  ~ | AntiNuke 3.0 `Objects` |
+[12:00:08] [DEBUG] [ChocoLog] Warned Player: 51 Diego Rodriguez
+[12:00:08] [DEBUG] Entity Spawning: Entity: [149505] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[12:00:08] [DEBUG] Entity Spawning: Entity: [150056] Spawned By Player: [yes / 0] MODEL [-563331074] TYPE [object]
+[12:00:15] [ChocoHax]: [Disconnect] Diego Rodriguez disconnected. (Server shutting down: Le serveur redémarre (redémarage prévu à 12:00).)
+[12:00:15] [ChocoHax]: [Disconnect] Alexei Karovic disconnected. (Server shutting down: Le serveur redémarre (redémarage prévu à 12:00).)
+[12:00:15] [ChocoHax]: [Disconnect] Leandro Gucci disconnected. (Server shutting down: Le serveur redémarre (redémarage prévu à 12:00).)
+[12:00:15] [ChocoHax]: [Disconnect] Dom Keurt disconnected. (Server shutting down: Le serveur redémarre (redémarage prévu à 12:00).)

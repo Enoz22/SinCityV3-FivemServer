@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Objects>
+    <MapObject>
+      <Type>Prop</Type>
+      <Position>
+        <X>-2194</X>
+        <Y>2668.5</Y>
+        <Z>3.28</Z>
+      </Position>
+      <Rotation>
+        <X>90</X>
+        <Y>-5.00895476E-06</Y>
+        <Z>0</Z>
+      </Rotation>
+      <Hash>-984871726</Hash>
+      <Dynamic>false</Dynamic>
+      <Quaternion>
+        <X>0.7071059</X>
+        <Y>-6.181715E-08</Y>
+        <Z>0</Z>
+        <W>0.7071074</W>
+      </Quaternion>
+      <Door>false</Door>
+    </MapObject>
+    <MapObject>
+      <Type>Prop</Type>
+      <Position>
+        <X>-2194</X>
+        <Y>2676</Y>
+        <Z>3.28</Z>
+      </Position>
+      <Rotation>
+        <X>90</X>
+        <Y>-5.008955E-06</Y>
+        <Z>0</Z>
+      </Rotation>
+      <Hash>-984871726</Hash>
+      <Dynamic>false</Dynamic>
+      <Quaternion>
+        <X>0.707105458</X>
+        <Y>-6.181711E-08</Y>
+        <Z>0</Z>
+        <W>0.7071077</W>
+      </Quaternion>
+      <Door>false</Door>
+    </MapObject>
+    <MapObject>
+      <Type>Prop</Type>
+      <Position>
+        <X>-2194</X>
+        <Y>2683.5</Y>
+        <Z>3.28</Z>
+      </Position>
+      <Rotation>
+        <X>90</X>
+        <Y>-5.008955E-06</Y>
+        <Z>0</Z>
+      </Rotation>
+      <Hash>-984871726</Hash>
+      <Dynamic>false</Dynamic>
+      <Quaternion>
+        <X>0.707105</X>
+        <Y>-6.181707E-08</Y>
+        <Z>0</Z>
+        <W>0.70710814</W>
+      </Quaternion>
+      <Door>false</Door>
+    </MapObject>
+  </Objects>
+  <RemoveFromWorld />
+  <Markers />
+  <Metadata>
+    <Creator>guillaume6365</Creator>
+    <Name>Nameless Map</Name>
+    <Description />
+    <LoadingPoint xsi:nil="true" />
+    <TeleportPoint xsi:nil="true" />
+  </Metadata>
+</Map>

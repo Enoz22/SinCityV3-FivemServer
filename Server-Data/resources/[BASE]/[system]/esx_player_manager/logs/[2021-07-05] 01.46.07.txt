@@ -1,0 +1,33 @@
+
+[01:46:09] [DEBUG] Loading Auth Data
+[01:46:09] [DEBUG] Loaded Auth Data
+[01:46:09] [DEBUG] Contacting Auth
+[01:46:09] [ChocoHax]: ChocoHax [1.3.0] is starting... Please Wait...
+[01:46:12] [ChocoHax Success]: Successfully connected to the authentication server
+[01:46:12] [ChocoHax]: Connected to Shiina Mashiro (hentai.systems) BZ
+[01:46:12] [ChocoHax]: Welcome back Enoz
+[01:46:12] [ChocoHax]: Your current Server IP: 51.210.223.224
+[01:46:12] [ChocoHax]: MOTD: Hello, There are a lot of new things there... get ready!
+[01:46:12] [ChocoHax Warning]: This current version doesn't have any Configuration Checker, DO NOT HEAVILY EDIT THE CONFIGS.
+[01:46:12] [ChocoHax Warning]: A config manager/generator will be released soon, this is a test version for the new Global Whitelist.
+[01:46:13] [ChocoHax Warning]: [51.210.223.224] is a new IP and has been authorized successfully.
+[01:46:13] [DEBUG] [Bans Loader] Requesting Ban List
+[01:46:13] [DEBUG] [Bans Loader] Retrieving Ban List
+[01:46:13] [DEBUG] [Bans Saver] Saved Bans in bans.json
+[01:46:13] [ChocoHax Success]: [Bans Loader] Ban List missing, generating a new one...
+[01:46:13] [DEBUG] [Bans Loader] Ban List not found, generated a new one
+[01:46:13] [DEBUG] Blacklisted Events Enabled
+[01:46:13] [DEBUG] Registred Blacklisted Event redst0nia:checking
+[01:46:13] [DEBUG] Registred Blacklisted Event hentailover:xdlol
+[01:46:13] [DEBUG] Registred Blacklisted Event antilynx8:anticheat
+[01:46:13] [DEBUG] Registred Blacklisted Event antilynxr6:detection
+[01:46:13] [DEBUG] Registred Blacklisted Event antilynx8r4a:anticheat
+[01:46:13] [DEBUG] Registred Blacklisted Event antilynxr4:detect
+[01:46:13] [DEBUG] Registred Blacklisted Event ynx8:anticheat
+[01:46:13] [DEBUG] Registred Blacklisted Event lynx8:anticheat
+[01:46:13] [DEBUG] Registred Blacklisted Event adminmenu:allowall
+[01:46:13] [DEBUG] Registred Blacklisted Event h:xd
+[01:46:13] [DEBUG] Registred Blacklisted Event HCheat:TempDisableDetection
+[01:46:13] [DEBUG] Registred Blacklisted Event FAC:EzExec
+[01:46:13] [DEBUG] Anti Events Chat Spam/Fake Name Enabled
+[01:46:13] [DEBUG] Protected Events Enabled

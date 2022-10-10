@@ -1,0 +1,60 @@
+<html>
+<link rel="stylesheet" type="text/css" href="css/1.css">
+<link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans" rel="stylesheet">
+
+<body>
+	<div class="Shape">
+		<div id='stars'></div>
+		<div id='stars2'></div>
+		<div id='stars3'></div>
+		<h1 class="servername"><strong>Sincity</strong></strong>Life V3</h1>
+		<h1 class="undertext"></strong>Bienvenue</strong> et bon jeux !</h1>
+		<h1 class="enable_music">Appuis sur <strong>[ESPACE]</strong> pour on/off la musique</h1>
+		<div style="height: 80%;width: 60%;margin-left: 10%;margin-top: 10%;">
+			<div class="ShapeStyle"></div>
+		</div>
+		<div id='stars'></div>
+		<div id='stars2'></div>
+		<div id='stars3'></div>
+	</div>
+	<div class="video-background">
+
+		<style>
+			body {
+				background-image: url(https://i.ibb.co/wcM1bZm/final.png);
+				background-repeat: no-repeat;
+				background-attachment: fixed;
+				background-size: cover;
+			}
+		</style>
+
+	</div>
+
+</body>
+<script>window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'UA-73378277-10'); </script>
+<audio id="leson" src="music/music.ogg" autoplay="true" hidden="true" loop="true" />
+<script>
+	var play = true;
+	var myAudio = document.getElementById("leson");
+
+	myAudio.volume = 0.1;
+
+	function onKeyDown(event) {
+		switch (event.keyCode) {
+			case 32: //SpaceBar
+				if (play) {
+					myAudio.pause();
+					play = false;
+				} else {
+					myAudio.play();
+					play = true;
+				}
+				break;
+		}
+		return false;
+	}
+
+	window.addEventListener("keydown", onKeyDown, false);
+</script>
+
+</html>

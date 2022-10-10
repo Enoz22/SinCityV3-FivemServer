@@ -1,0 +1,48 @@
+{
+  "global": {
+    "serverName": "SincityLife V3",
+    "language": "fr"
+  },
+  "logger": {},
+  "monitor": {
+    "restarterSchedule": [
+      "05:00",
+      "12:00",
+      "20:00"
+    ],
+    "restarterScheduleWarnings": [
+      30,
+      15,
+      10,
+      5,
+      4,
+      3,
+      2,
+      1
+    ],
+    "disableChatWarnings": false
+  },
+  "playerController": {
+    "onJoinCheckBan": true,
+    "onJoinCheckWhitelist": true,
+    "minSessionTime": 15,
+    "whitelistRejectionMessage": "Vous n'êtes pas encore WL sur ce serveur. \nVeuillez vous joindre : http://discord.\nVotre ID: <id>",
+    "wipePendingWLOnStart": true
+  },
+  "webServer": {},
+  "discordBot": {
+    "enabled": true,
+    "prefix": "\\",
+    "statusMessage": "**IP:** `51.210.223.224`\n**Players:** <players>\n**Uptime:** <uptime>",
+    "token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "announceChannel": "yyyyyyyyyyyyyyyyy"
+  },
+  "fxRunner": {
+    "serverDataPath": "/home/sindev/ftp/serveur/SinCityLife/Server-Data/",
+    "cfgPath": "/home/sindev/ftp/serveur/SinCityLife/Server-Data/server.cfg",
+    "commandLine": "+set onesync_enabled 1 +set onesync_enableInfinity 1 +set onesync_enableBeyond 1",
+    "onesync": "off",
+    "autostart": true,
+    "quiet": false
+  }
+}

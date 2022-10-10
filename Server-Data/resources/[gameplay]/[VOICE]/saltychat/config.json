@@ -1,0 +1,26 @@
+{
+  // Variables Guide: https://github.com/saltminede/saltychat-docs/blob/master/setup.md#config-variables
+  "VoiceEnabled": true,
+  "ServerUniqueIdentifier": "t3SX+d+ftA7qihwNeAonm8I59V8=",
+  "MinimumPluginVersion": "2.3.5",
+  "SoundPack": "default",
+  "IngameChannelId": 2,
+  "IngameChannelPassword": "sincitylife123456",
+  "SwissChannelIds": [ 61, 62 ],
+  "VoiceRanges": [ 3.5, 8, 15, 32 ],
+  "MegaphoneRange": 120.0,
+  "NamePattern": "[{serverid}] {guid}",
+  "RequestTalkStates": true,
+  "RequestRadioTrafficStates": false,
+  "EnableVoiceRangeNotification": true,
+  "VoiceRangeNotification": "Vous changez de canal vocal",
+  
+  
+
+
+  // Keybinds: https://docs.fivem.net/docs/game-references/controls/#controls
+  "ToggleRange": 82, // EnterCheatCode
+  "TalkPrimary": 249, // PushToTalk
+  "TalkSecondary": 137, // VehiclePushbikeSprint
+  "TalkMegaphone": 244 // SpecialAbilitySecondary
+}

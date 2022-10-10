@@ -1,0 +1,37 @@
+[
+  {
+    "name": "enoz",
+    "master": true,
+    "password_hash": "password",
+    "providers": {
+      "citizenfx": {
+        "id": "enoz.",
+        "identifier": "fivem:00000",
+        "data": {
+          "name": "Enoz"
+        }
+      }
+    },
+    "permissions": [
+      "settings.view",
+      "settings.write",
+      "console.view",
+      "console.write",
+      "control.server",
+      "commands.resources",
+      "server.cfg.editor",
+      "txadmin.log.view",
+      "menu.vehicle",
+      "players.message",
+      "players.whitelist",
+      "players.warn",
+      "players.kick",
+      "players.ban",
+      "players.heal",
+      "players.playermode",
+      "players.spectate",
+      "players.teleport",
+      "players.troll"
+    ]
+  }
+]

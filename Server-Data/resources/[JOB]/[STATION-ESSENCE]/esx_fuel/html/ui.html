@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <title></title>
+        <link rel="stylesheet" type="text/css" href="ui.css">
+        <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,500;1,200&display=swap" rel="stylesheet">
+        <script src="ui.js"></script>
+    </head>
+    <body>
+        <left>
+            <img src="https://media.discordapp.net/attachments/858443658805510154/859180969307406346/Pompe.png">
+            <p id="stock"><span class="stockLabel">Essence en stock </span><BR><span id="stockQty">150</span> <span class="stockLabel">litres</span></p>
+            <div class="act">
+                <button id="retirar">Faire le plein</button>
+                <button id="guardar">Remplir selon le montant</button>
+            </div>
+        </left>
+        <div class="container">
+            <small>Station essence</small><br>
+            <span>Vehicule</span>
+            <div class="box">
+                <span id="title">Montant personnalisé en $ (mini 1l)</span>
+                <div class="item" style="border: none;">
+                    <button id="minus">-</button>
+                    <form id="amountForm">
+                        <input id="amount" type="number" placeholder="$">
+                    </form>
+                    <button id="plus" style="right: 5px;">+</button>
+                </div>
+            </div>
+            <div class="box">
+                <span id="title">Niveau d'essence</span>
+                <div class="item">
+                    <div class="litro">
+                        <span>20 litres</span>
+                    </div>
+                </div>
+            </div>
+            <div class="box">
+                <span id="title">Prix par litre</span>
+                <div class="item">
+                    <span id="fuel-price"><span style="font-size: 18px;">$</span> 1.00</span>
+                </div>
+            </div>
+        </div>
+        <div class="modal">
+            <button class="accept btninfo">Oui</button>
+            <span>Payer la somme de <br><b>$ 85,00</b></span>
+            <button class="recuse btninfo">Non</button>
+        </div>
+    </body>
+</html>
